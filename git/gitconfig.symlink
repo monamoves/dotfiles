@@ -1,6 +1,6 @@
 [user]
-	name  = Matt Ryan
-	email = mryan@sankynet.com
+	name  = Peter Major
+	email = pmajor@sankynet.com
 [credential]
 	helper = osxkeychain
 [color]
@@ -29,9 +29,9 @@
 [apply]
   whitespace = fix
 [core]
-  editor     = vim
+  editor     = subl -w
   whitespace = space-before-tab,tab-in-indent,trailing-space
 [github]
-	user = mattryan
+	user = mejdzer
 [help]
 	autocorrect = 1
