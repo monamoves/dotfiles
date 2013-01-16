@@ -1,5 +1,5 @@
 alias reload!='. ~/.zshrc'
-alias ll='ls++ -a'
+alias ll='ls -la'
 alias d2u='find . -exec dos2unix {} \;'
 alias pwd='pwd && pwd | pbcopy'
 alias ss='ssh sankyser@sankyserver.com'

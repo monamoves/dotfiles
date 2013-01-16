@@ -19,3 +19,7 @@ alias gr='git reset'
 alias grm="git status | grep deleted | awk '{print \$3}' | xargs git rm"
 alias stage="git push staging develop:develop"
 alias production="git push production master:master"
+alias gl='git lola'
+alias gc='git checkout'
+alias gb='git branch'
+alias grp='git remote prune'
