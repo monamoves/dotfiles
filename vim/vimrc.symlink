@@ -134,7 +134,8 @@ vnoremap <Space> za
 " }}}
 
 " VIM appearance {{{
-colorscheme badwolf
+" colorscheme badwolf
+colorscheme Tomorrow-Night
 syntax on
 filetype plugin indent on
 if has("gui_running")
