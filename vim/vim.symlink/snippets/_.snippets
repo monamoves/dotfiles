@@ -11,9 +11,9 @@ snippet dcc
 	<div class="clear"></div>${1}
 snippet pc
 	/**
-         * @author		Piotr Major, SankyNet <pmajon@sankyinc.com>
-	 * @date			`strftime("%Y-%m-%d")`
-	 * @comments	${1}
+         * @author      Piotr Major, SankyNet <pmajon@sankyinc.com>
+         * @date        `strftime("%Y-%m-%d")`
+         * @comments   ${1}
 	 **/
 	${2}
 snippet sc
@@ -44,7 +44,7 @@ snippet spc
 snippet tar
 	target="_blank"${1}
 snippet ajax
-	\$.ajax({
+        $.ajax({
 		url: '${1}',
 		beforeSend: function() {
 			console.log('before');
@@ -379,3 +379,13 @@ snippet auth
 	AuthName "My Protected Area"
 	AuthUserFile ${1:/path/to/.htpasswd}
 	Require valid-user
+snippet cb
+        /**
+         * ${1:comment}
+         **/
+snippet dsm
+        drupal_set_message('<pre>'.print_r(${1:variable}, true).'</pre>');
+snippet rd
+        Rails.logger.debug "${1:description}: #{${2:variable}}"
+snippet dsm
+        drupal_set_message(print_r(${1:variable}, true));

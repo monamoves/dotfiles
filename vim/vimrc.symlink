@@ -51,6 +51,7 @@ Bundle 'ervandew/supertab'
 Bundle 'mrevd/vim-insert-image'
 Bundle 'henrik/vim-open-url'
 Bundle 'matthias-guenther/hammer.vim'
+Bundle 'terryma/vim-multiple-cursors'
 if executable('ctags')
   Bundle 'majutsushi/tagbar'
 endif

@@ -69,7 +69,12 @@ machine_name() {
   echo "%{$fg_bold[magenta]%}%m:%{$reset_color%}"
 }
 
-export PROMPT=$'$(machine_name) $(rb_prompt) in $(directory_name) $(git_dirty) $(need_push)\n%{$fg_bold[white]%}➜ %{$reset_color%} '
+collapse_pwd() {
+  echo $(pwd | sed -e "s,^$HOME,~,")
+}
+
+#export PROMPT=$'$(machine_name) $(rb_prompt) in $(directory_name) $(git_dirty) $(need_push)\n%{$fg_bold[white]%}➜ %{$reset_color%} '
+export PROMPT=$'%{$fg_bold[grey]%}{%D{%I:%M%p}} $(machine_name) $(rb_prompt) in $(directory_name) $(git_dirty) $(need_push)\n%{$fg_bold[cyan]%}>%{$reset_color%} '
 set_prompt () {
   export RPROMPT="%{$fg_bold[cyan]%}%{$reset_color%}"
 }
