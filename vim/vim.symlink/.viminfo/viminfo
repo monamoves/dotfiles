@@ -15,12 +15,12 @@ $
 
 # Command Line History (newest to oldest):
 :q
+:w
 :colorscheme base16-eighties
 :colorscheme base16-atelierdune
 :colorscheme base16
 :colorscheme
 :colorscheme base16-default
-:w
 :edit
 :wq
 :vsp
@@ -164,9 +164,11 @@ $
 # Registers:
 "0	CHAR	0
 	sanky_donation_form_is_recurring_default'
-"1	LINE	0
-	          '#options' => _fields,
+""1	LINE	0
+	" colorscheme badwolf
 "2	LINE	0
+	          '#options' => _fields,
+"3	LINE	0
 	  <p>Supporter Name and Address:</p>
 	  <p><strong>
 	    <?php echo ucfirst($first_name) . ' ' . ucfirst($last_name); ?>
@@ -175,14 +177,8 @@ $
 	    <br />
 	    <?php echo $city . ', ' . $state . ', ' . $postal_code; ?>
 	  </strong></p>
-"3	LINE	0
-	                          Supporter Name and Address:<br />
 "4	LINE	0
-	                            <span style="font-weight:bold;">
-	                              <?php echo ucfirst($first_name . ' ' . $last_name); ?><br />
-	                              <span class="ios-font-fix2"><?php echo $address_1 . ' ' . $address_2; ?><br />
-	                              <?php echo $city . ', ' . $state . ', ' . $postal_code; ?></span>
-	                            </span>
+	                          Supporter Name and Address:<br />
 "5	LINE	0
 	                            <span style="font-weight:bold;">
 	                              <?php echo ucfirst($first_name . ' ' . $last_name); ?><br />
@@ -196,30 +192,37 @@ $
 	                              <?php echo $city . ', ' . $state . ', ' . $postal_code; ?></span>
 	                            </span>
 "7	LINE	0
-	
+	                            <span style="font-weight:bold;">
+	                              <?php echo ucfirst($first_name . ' ' . $last_name); ?><br />
+	                              <span class="ios-font-fix2"><?php echo $address_1 . ' ' . $address_2; ?><br />
+	                              <?php echo $city . ', ' . $state . ', ' . $postal_code; ?></span>
+	                            </span>
 "8	LINE	0
-	  drupal_set_message('<pre>'.print_r($donor_fields_visibility, true).'</pre>');
+	
 "9	LINE	0
-	    
-""-	CHAR	0
+	  drupal_set_message('<pre>'.print_r($donor_fields_visibility, true).'</pre>');
+"-	CHAR	0
 	t
 
 # File marks:
-'0  19  0  ~/Sites/ch/.gitignore
-'1  142  26  ~/.vimrc
-'2  1  0  ~/Sites/awf/.git/MERGE_MSG
-'3  190  32  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
-'4  87  0  ~/Sites/analytics/app/controllers/imports_controller.rb
-'5  12  0  ~/Sites/ch/sites/all/modules/addthis/addthis.module
-'6  22  15  ~/Sites/analytics/app/controllers/application_controller.rb
-'7  545  0  ~/NERD_tree_1
-'8  1  0  ~/Sites/ch/.git/MERGE_MSG
-'9  618  2  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.inc
+'0  143  0  ~/.vimrc
+'1  19  0  ~/Sites/ch/.gitignore
+'2  141  26  ~/.vimrc
+'3  1  0  ~/Sites/awf/.git/MERGE_MSG
+'4  190  32  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
+'5  87  0  ~/Sites/analytics/app/controllers/imports_controller.rb
+'6  12  0  ~/Sites/ch/sites/all/modules/addthis/addthis.module
+'7  22  15  ~/Sites/analytics/app/controllers/application_controller.rb
+'8  545  0  ~/NERD_tree_1
+'9  1  0  ~/Sites/ch/.git/MERGE_MSG
 
 # Jumplist (newest first):
+-'  143  0  ~/.vimrc
+-'  11  0  ~/.dotfiles/tmux/tmux.conf.symlink
+-'  1  0  ~/.dotfiles/tmux/tmux.conf.symlink
 -'  19  0  ~/Sites/ch/.gitignore
 -'  1  0  ~/Sites/ch/.gitignore
--'  142  26  ~/.vimrc
+-'  141  26  ~/.vimrc
 -'  1  0  ~/Sites/analytics/app/controllers/clients_controller.rb
 -'  1  0  ~/Sites/awf/.git/MERGE_MSG
 -'  190  32  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
@@ -312,11 +315,33 @@ $
 -'  186  28  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/monthly-donor-default.tpl.php
 -'  51  12  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/donor-default.tpl.php
 -'  181  44  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/donor-default.tpl.php
--'  872  16  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  856  5  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  859  6  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
 
 # History of marks within files (newest to oldest):
+
+> ~/.dotfiles/tmux/tmux.conf.symlink
+	"	11	0
+
+> ~/.dotfiles/NERD_tree_1
+	"	17	0
+	.	1	0
+	+	1	0
+	+	1	0
+
+> ~/.vimrc
+	"	143	0
+	^	142	0
+	.	141	0
+	+	206	0
+	+	56	0
+	+	55	0
+	+	317	0
+	+	315	0
+	+	314	6
+	+	314	0
+	+	313	0
+	+	60	0
+	+	59	0
+	+	141	0
 
 > ~/Sites/ch/.gitignore
 	"	19	0
@@ -451,22 +476,6 @@ $
 
 > ~/Sites/analytics/app/controllers/clients_controller.rb
 	"	1	0
-
-> ~/.vimrc
-	"	142	26
-	^	142	26
-	.	142	26
-	+	206	0
-	+	56	0
-	+	55	0
-	+	317	0
-	+	315	0
-	+	314	6
-	+	314	0
-	+	313	0
-	+	60	0
-	+	59	0
-	+	142	26
 
 > ~/Sites/awf/landing/2013/05/poaching-infographic/index.php
 	"	182	60
@@ -1622,16 +1631,3 @@ $
 
 > ~/Sites/sbi/sites/all/modules/sanky_net/sanky_contact_form/sanky_contact_form.inc
 	"	510	0
-
-> ~/Sites/sbi/NERD_tree_1
-	"	52	35
-	.	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-
-> ~/Sites/sbi/sites/all/modules/sanky_net/sanky_contact_form/sanky_contact_form.module
-	"	127	8
