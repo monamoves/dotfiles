@@ -162,9 +162,9 @@ $
 # Input Line History (newest to oldest):
 
 # Registers:
-"0	CHAR	0
-	sanky_donation_form_is_recurring_default'
-""1	LINE	0
+""0	LINE	0
+	vim/vim.symlink/.viminfo/
+"1	LINE	0
 	" colorscheme badwolf
 "2	LINE	0
 	          '#options' => _fields,
@@ -202,21 +202,27 @@ $
 "9	LINE	0
 	  drupal_set_message('<pre>'.print_r($donor_fields_visibility, true).'</pre>');
 "-	CHAR	0
-	t
+	p
 
 # File marks:
-'0  143  0  ~/.vimrc
-'1  19  0  ~/Sites/ch/.gitignore
-'2  141  26  ~/.vimrc
-'3  1  0  ~/Sites/awf/.git/MERGE_MSG
-'4  190  32  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
-'5  87  0  ~/Sites/analytics/app/controllers/imports_controller.rb
-'6  12  0  ~/Sites/ch/sites/all/modules/addthis/addthis.module
-'7  22  15  ~/Sites/analytics/app/controllers/application_controller.rb
-'8  545  0  ~/NERD_tree_1
-'9  1  0  ~/Sites/ch/.git/MERGE_MSG
+'0  33  25  ~/.dotfiles/.gitignore
+'1  31  0  ~/.dotfiles/.gitignore
+'2  52  0  ~/.dotfiles/NERD_tree_1
+'3  143  0  ~/.vimrc
+'4  19  0  ~/Sites/ch/.gitignore
+'5  141  26  ~/.vimrc
+'6  1  0  ~/Sites/awf/.git/MERGE_MSG
+'7  190  32  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
+'8  87  0  ~/Sites/analytics/app/controllers/imports_controller.rb
+'9  12  0  ~/Sites/ch/sites/all/modules/addthis/addthis.module
 
 # Jumplist (newest first):
+-'  33  25  ~/.dotfiles/.gitignore
+-'  1  0  ~/.dotfiles/.gitignore
+-'  31  0  ~/.dotfiles/.gitignore
+-'  52  0  ~/.dotfiles/NERD_tree_1
+-'  70  2  ~/.dotfiles/NERD_tree_1
+-'  1  0  ~/.dotfiles/NERD_tree_1
 -'  143  0  ~/.vimrc
 -'  11  0  ~/.dotfiles/tmux/tmux.conf.symlink
 -'  1  0  ~/.dotfiles/tmux/tmux.conf.symlink
@@ -309,23 +315,27 @@ $
 -'  55  0  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/monthly-donor-default.tpl.php
 -'  45  79  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/donor-default.tpl.php
 -'  178  0  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/monthly-donor-default.tpl.php
--'  178  0  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/donor-default.tpl.php
--'  179  0  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/donor-default.tpl.php
--'  185  0  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/donor-default.tpl.php
--'  186  28  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/monthly-donor-default.tpl.php
--'  51  12  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/donor-default.tpl.php
--'  181  44  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/donor-default.tpl.php
 
 # History of marks within files (newest to oldest):
 
-> ~/.dotfiles/tmux/tmux.conf.symlink
-	"	11	0
+> ~/.dotfiles/.gitignore
+	"	33	25
+	^	33	26
+	.	33	25
+	+	32	0
+	+	33	25
 
 > ~/.dotfiles/NERD_tree_1
-	"	17	0
+	"	21	0
 	.	1	0
 	+	1	0
 	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/.dotfiles/tmux/tmux.conf.symlink
+	"	11	0
 
 > ~/.vimrc
 	"	143	0
@@ -1628,6 +1638,3 @@ $
 
 > ~/Sites/ffh.dev/freedomfromhunger-old.org/sites/all/modules/donation/donation.info
 	"	1	0
-
-> ~/Sites/sbi/sites/all/modules/sanky_net/sanky_contact_form/sanky_contact_form.inc
-	"	510	0

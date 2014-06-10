@@ -29,3 +29,5 @@ drush/drush.symlink/*.drushrc.php
 vim/vim.symlink/.netrwhist
 sublime2/User/Package\ Control.sublime-settings
 local/localrc.symlink
+vim/vim.symlink/.viminfo/
+vim/vim.symlink/.viminfo/*
