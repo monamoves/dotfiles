@@ -52,9 +52,11 @@ Bundle 'mrevd/vim-insert-image'
 Bundle 'henrik/vim-open-url'
 Bundle 'matthias-guenther/hammer.vim'
 Bundle 'terryma/vim-multiple-cursors'
+Bundle 'rizzatti/dash.vim'
 if executable('ctags')
   Bundle 'majutsushi/tagbar'
 endif
+Bundle 'chriskempson/base16-vim'
 "}}}
 
 " VIM behaviour {{{
@@ -103,6 +105,7 @@ set showcmd
 set nomodeline
 set cursorline
 set clipboard=unnamed
+set viminfo+=n~/.vim/.viminfo/viminfo
 " set ttyfast
 
 nnoremap / /\v
@@ -136,7 +139,7 @@ vnoremap <Space> za
 
 " VIM appearance {{{
 " colorscheme badwolf
-colorscheme Tomorrow-Night
+colorscheme base16-default
 syntax on
 filetype plugin indent on
 if has("gui_running")
@@ -307,4 +310,7 @@ let g:yankring_history_dir = '$HOME/.vim/.tmp'
   function! YRRunAfterMaps()
     vmap y ygv<Esc>
   endfunction
+
+" Dash"
+nmap <silent> <leader>d <Plug>DashGlobalSearch
 "}}}
