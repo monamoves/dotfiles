@@ -8,7 +8,7 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/\vrecu
+~MSle0~/\vawf
 
 # Last Substitute String:
 $
@@ -16,316 +16,1504 @@ $
 # Command Line History (newest to oldest):
 :q
 :w
+:b#
+:q!
+:;
+:A
+:i(
+:A;
+:;;;
+:edit!
+:edit
+:wjjj;w
+:wjjj
+:;;;;;
+:;;;;;;;
+:;;;;;;;;;;;
+:;;
+:b$
+:IMG img/awf-form-bg.png
+:vsp
+:qa!
+:NERDTree
+:qa
+:wqa
+:wq
+:w!
+:i, P
+:zz
+:Zz
+:ZZ
+:QZ
+:ZQ
+:zq
+:lw
+:l
+:55
+:b
+:new-win
+:new-w
+:edity
+:new
+:w ~/Desktop/base16-bright.dark.itermcolors
+:404
+:vsplit
+:new
+:w ~/Desktop/base16-bright.dark.itermcolors
+:404
+:vsplit
+:v
+:v
+:'<,'><Plug>(a)<Plug>(d)b#
+:434
+:Q
+:'<,'><Plug>(a)<Plug>(d)b#
+:434
+:W
+:Q
+:W
+:lan html
+:h :language
+:help
+:lan html
+:lan html
+:h :language
+:set html
+:help
+:h :language
+:lan html
+:help
+:set html
+:341
+:h :language
+:set html
+:help
+:135
+:341
+:341
 :colorscheme base16-eighties
+:135
 :colorscheme base16-atelierdune
+:set html
+:colorscheme base16-eighties
+:135
 :colorscheme base16
 :colorscheme
+:341
+:colorscheme base16-atelierdune
+:colorscheme base16-eighties
 :colorscheme base16-default
-:edit
-:wq
-:vsp
+:135
+:colorscheme base16
+:colorscheme base16-atelierdune
+:colorscheme
+:colorscheme base16-eighties
 :colorscheme base16-mocha
+:colorscheme base16
+:colorscheme base16-default
+:colorscheme
 :colorscheme base16-atelierforest
-:colorscheme base16-3024
-:BundleInstall!
-:b#
-:;;
-:;;;
-:513
-:51
-:46
-:new
-:kjj
-:201
-:198
-:we
-:153
-:sp
-:saveas ~/Desktop/analitycs_script.sh
-:wall
-::q
-:BundleInstall
-:;
-:q!
-:wdit
-:694
-:lw
-:edit!
-:A
-:;;;;;;;;
-:e ../freedomfromhunger-old.org/
-:w ny-donor-default.tpl.php
-:w ny-donor-default
-:l
+:colorscheme base16-atelierdune
 
 # Search String History (newest to oldest):
 ? \s\+$
-?/\velephanta
-?/\velephan
-?/\v_GET
-?/\vele
-?/\v5
-?/\vrecu
-?/\vis_defau
-? \Vdsm\%#
-?/\vsend_
-?/\vsend
-?/\vtwitt
-?/\vdefault_
-?/\v
-?/\vfooter
-?/\vbar
-?/\vblue
-?/\vduplic
-?/\vnav
-?/\vvalue
-?/\vdefault
-?/\varrow-arrow
-?/\vslidesjs
-?/\vsee j
-?/\vsee
-?/\v.page 
-?/\vpage
-?/\v..lkkjjj
-?/\vshare
-?/\v.span
-?/\vconnec
-?/\vsection.con
-?/\vnn
-?/\vf
-?/\vJerome
-?/\vsanky_convio
-?/\vtaiwan
-? \Vcb\%#
-?/\vAddress
-?/\vselect
-?/\vcountry_get_predefined
-?/\vcountr
-?/\vdonation_online
-?/\vcountry_get_list
-?/\vcountry
-?/\vdonate_onl
-?/\vwrite
-?/\vhttp
-?/\vhttp:
-?/\v\/help
-?/\vhelp
-?/\vpledge
-?/\vIE
-?/\vIE8
-?/\vie
-?/\vvisi
-?/\vdefaul
-?/\vstate
-?/\vsanky_shared
-?/\vvalida
-?/\vmodule_lonnnnnnn
-?/\vdefau
-?/\vinsert_conv
+?/\vawf
+? \Vfor\%#
+? \Vcl\%#
+?/\vconso
+?/\vform_params
+?/\v/
+?/\vform-row
+? \Vdd\%#
+?/\vthanks
 ?/\vsubmit
-?/\vlege
-?/\vle
-?/\vlegend
-?/\vcasa
-?/\vbg-donate
-?/\vlogo
+?/\v
+?/\vmedia-
+?/\vcol-md
+?/\vspread
+? (){
+?/\vfly-
+?/\vmain
+?/\vform-
+?/\vmain-tex
+?/\vmain-text
+?/\vgrid
+? \Vcb\%#
+?/\vmem
+?/\vsection\.content\ footer\ nav
+?/\vregion-social
+?/\vsection\.content\ footer\ as
+?/\vsocial-media-links
+?/\vfooter
+?/\vsection conte
+?/\v-social
+?/\vcookie
+?/\v180
+?/\vul\.menu
+?/\vsend
+?/\vblock_disp
+?/\vproduc
+?/\vdrupal_set
+?/\vtitle
+?/\vog
+?/\vog\:
+?/\vog:
+?/\vcontent
+? \Vboilerplate\%#
+?/\vhelp
+?/\v_node_rankings
+?/\vranking
+?/\v_node_ran
+?/\vrank
+? \Vdsm\%#
+?/\vprep
+? \Vdsm\%#
+?/\vmonthly
+?/\vprep
+?/\vhomeless-mon
+?/\vmonthly
+?/\vh1
+?/\vhomeless-mon
+?/\vDonate Mon
+?/\vh1
+?/\vcanada
+?/\vDonate Mon
+?/\vdonor_as
+?/\vcanada
+?/\vname_ib
+?/\vdonor_as
+?/\vnode_search
+?/\vname_ib
+?/\vnode_search
+?/\vsearch_info
+?/\vsearch_e
+?/\vsearch_info
+?/\vsearch_ex
+?/\vsearch_e
+?/\vsear_exe
+?/\vsearch_ex
+?/\vsearch_box
+?/\vsear_exe
+?/\vblock
+?/\vsearch_box
+?/\vsearch_execute
+?/\vblock
+?/\vsearch_data
+?/\vsearch_execute
+?/\vsearch_view
+?/\vsearch_data
+?/\vexecute
+?/\vsearch_view
+?/\vsearch
+?/\vexecute
+?/\vlatest
+?/\vsearch
+?/\vviews
+?/\vlatest
+?/\vviews
+?/\vcontent_right
+?/\vwebsi
+?/\vcontent_right
+?/\vwebsi
+?/\vwebsi
 
 # Expression History (newest to oldest):
 
 # Input Line History (newest to oldest):
+@/Users/piotrmajor/Sites/awf/campaigns/pledge/js/vendor/modernizr-2.8.2.min.js
+@/Users/piotrmajor/Sites/awf/campaigns/pledge/js/vendor/respond.min.js
+@/Users/piotrmajor/Sites/awf/campaigns/pledge/laravel/app/views/emails/confirmation-text.blade.php
+@/Users/piotrmajor/Sites/awf/campaigns/pledge/laravel/app/views/emails/confirmation-html.blade.php
+@/Users/piotrmajor/Sites/awf/campaigns/pledge/laravel/app/controllers/PledgeController.php
+@/Users/piotrmajor/Sites/awf/campaigns/pledge/laravel/app/models/Signer.php
+@/Users/piotrmajor/Sites/awf/campaigns/pledge/laravel/app/models
+@/Users/piotrmajor/Sites/awf/campaigns/pledge/laravel/app/views/pledge.blade.php
+@/Users/piotrmajor/Sites/awf/campaigns/pledge/laravel/app/views/layout.blade.php
+@/Users/piotrmajor/Sites/awf/campaigns/pledge/laravel/app/views/layout.php
+@/Users/piotrmajor/Sites/cmow/sites/all/modules/sanky/sanky_donation_form/confirmations/page/_common.tpl.php
+@/Users/piotrmajor/Sites/cmow/sites/all/modules/sanky/sanky_donation_form/confirmations/page/common.tpl.php
+@/Users/piotrmajor/Sites/cmow/sites/all/modules/sanky/sanky_donation_form/confirmations/page/_silverpop.tpl.php
+@/Users/piotrmajor/Sites/cmow/sites/all/themes/cmow/page-support-us.tpl.php
+@/Users/piotrmajor/Sites/cmow/sites/all/themes/cmow/page-node-9.tpl.php
+@/Users/piotrmajor/Sites/cmow/sites/all/themes/cmow/page-node-11.tpl.php
+@/Users/piotrmajor/Sites/cmow/sites/all/themes/cmow/page
+@/Users/piotrmajor/Sites/awf/campaigns/pledge/sass/normalize.scss
+@/Users/piotrmajor/Sites/awf/campaigns/pledge/sass/_normalize.scss
+@/Users/piotrmajor/Sites/awf/campaigns/pledge/sass/_close.scss
+@/Users/piotrmajor/Sites/awf/campaigns/pledge/sass/_open.scss
+@/Users/piotrmajor/Sites/awf/campaigns/pledge/sass/_base.scss
+@/Users/piotrmajor/Sites/awf/campaigns/pledge/laravel/app/views/pledge.php
+@/Users/piotrmajor/Sites/awf/campaigns/pledge/laravel/.htaccess
+@yes
+@yes
+@yes
+@yes
+@/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/nj-monthly-donor-default.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/nj-monthly-donor-default.tpl.php
 @/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/nj-monthly-donor-default.tpl.php
 @/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/nj-donor-default.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/nj-donor-default.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/nj-monthly-donor-default.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/nj-monthly-donor-default.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/nj-donor-default.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/nj-donor-default.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/nj-monthly-donor-default.tpl.php
 @/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/nj-monthly-donor-default.tpl.php
 @/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/nj-donor-default.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/nj-monthly-donor-default.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/nj-donor-default.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/nj-donor-default.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/themes/locations/tpl.php/page/page--node--92.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/nj-donor-default.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/themes/locations/tpl.php/page/page--node--92.tpl.php
 @/Users/piotrmajor/Sites/ch/sites/all/themes/locations/tpl.php/page/page--node--92.tpl.php
 @/Users/piotrmajor/Sites/ch/sites/all/themes/locations/tpl.php/page/page--help-the-homeless.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/themes/locations/tpl.php/page/page--node--92.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/themes/locations/tpl.php/page/page--help-the-homeless.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/themes/locations/tpl.php/page/page--help-the-homeless.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/themes/locations/tpl.php/page/page--help-the-homeless.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/themes/locations/tpl.php/page/page--donate.tpl.php
 @/Users/piotrmajor/Sites/ch/sites/all/themes/locations/tpl.php/page/page--donate.tpl.php
 @/Users/piotrmajor/Sites/ch/sites/all/themes/locations/tpl.php/page/page--node-92.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/themes/locations/tpl.php/page/page--node-92.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/themes/locations/tpl.php/page/page--help-the-homeles.tpl.php
 @/Users/piotrmajor/Sites/ch/sites/all/themes/locations/tpl.php/page/page--help-the-homeles.tpl.php
 @/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/casa.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/casa.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/casa-one-time.tpl.php
 @/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/casa-one-time.tpl.php
 @/Users/piotrmajor/Sites/ch/sites/www.covenanthouse.org/themes/covenant/css/casa/_base.scss
+@/Users/piotrmajor/Sites/ch/sites/www.covenanthouse.org/themes/covenant/css/casa/_base.scss
+@/Users/piotrmajor/Sites/ch/sites/www.covenanthouse.org/themes/covenant/css/casa/_0_600.scss
 @/Users/piotrmajor/Sites/ch/sites/www.covenanthouse.org/themes/covenant/css/casa/_0_600.scss
 @/Users/piotrmajor/Sites/ch/sites/www.covenanthouse.org/themes/covenant/css/casa/_601_720.scss
+@/Users/piotrmajor/Sites/ch/sites/www.covenanthouse.org/themes/covenant/css/casa/_601_720.scss
+@/Users/piotrmajor/Sites/ch/sites/www.covenanthouse.org/themes/covenant/css/casa/_801_984.scss
 @/Users/piotrmajor/Sites/ch/sites/www.covenanthouse.org/themes/covenant/css/casa/_801_984.scss
 @/Users/piotrmajor/Sites/ch/sites/www.covenanthouse.org/themes/covenant/css/casa/_721_800.scss
+@/Users/piotrmajor/Sites/ch/sites/www.covenanthouse.org/themes/covenant/css/casa/_721_800.scss
+@/Users/piotrmajor/Sites/ch/sites/www.covenanthouse.org/themes/covenant/css/casa/_600_800.scss
 @/Users/piotrmajor/Sites/ch/sites/www.covenanthouse.org/themes/covenant/css/casa/_600_800.scss
 @/Users/piotrmajor/Sites/ch/sites/www.covenanthouse.org/themes/covenant/css/casa/_800_984.scss
+@/Users/piotrmajor/Sites/ch/sites/www.covenanthouse.org/themes/covenant/css/casa/_800_984.scss
+@/Users/piotrmajor/Sites/ch/sites/www.covenanthouse.org/themes/covenant/css/casa/_casa_responsive.scss
 @/Users/piotrmajor/Sites/ch/sites/www.covenanthouse.org/themes/covenant/css/casa/_casa_responsive.scss
 @/Users/piotrmajor/Sites/ch/sites/www.covenanthouse.org/themes/covenant/css/casa/
+@/Users/piotrmajor/Sites/ch/sites/www.covenanthouse.org/themes/covenant/css/casa/
+@/Users/piotrmajor/Sites/analytics/app/views/reports/_ajax_alert.js.erb
 @/Users/piotrmajor/Sites/analytics/app/views/reports/_ajax_alert.js.erb
 @/Users/piotrmajor/Sites/analytics/app/workers/performance_report_data_worker.rb
+@/Users/piotrmajor/Sites/analytics/app/workers/performance_report_data_worker.rb
+@/Users/piotrmajor/Sites/ch/sites/all/themes/locations/tpl.php/page/page--donate.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/ny-monthly-donor-default.tpl.php
 @/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/ny-monthly-donor-default.tpl.php
 @/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/ny-donor-default.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/ny-donor-default.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/themes/locations/tpl.php/page/page--donate.tpl.php
 @/Users/piotrmajor/Sites/analytics/downloads/test_file.txt
+@/Users/piotrmajor/Sites/analytics/downloads/test_file.txt
+@/Users/piotrmajor/Sites/ch/sites/all/themes/locations/tpl.php/page/page--node-92.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/themes/locations/tpl.php/page/page--node-92.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/themes/locations/tpl.php/page/page--help-the-homeles.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/themes/locations/tpl.php/page/page--help-the-homeles.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/casa.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/casa.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/casa-one-time.tpl.php
+@/Users/piotrmajor/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/casa-one-time.tpl.php
 
 # Input Line History (newest to oldest):
 
 # Registers:
-""0	LINE	0
-	vim/vim.symlink/.viminfo/
-"1	LINE	0
-	" colorscheme badwolf
-"2	LINE	0
-	          '#options' => _fields,
-"3	LINE	0
-	  <p>Supporter Name and Address:</p>
-	  <p><strong>
-	    <?php echo ucfirst($first_name) . ' ' . ucfirst($last_name); ?>
-	    <br />
-	    <?php echo $address_1 . ' ' . $address_2; ?>
-	    <br />
-	    <?php echo $city . ', ' . $state . ', ' . $postal_code; ?>
-	  </strong></p>
-"4	LINE	0
-	                          Supporter Name and Address:<br />
-"5	LINE	0
-	                            <span style="font-weight:bold;">
-	                              <?php echo ucfirst($first_name . ' ' . $last_name); ?><br />
-	                              <span class="ios-font-fix2"><?php echo $address_1 . ' ' . $address_2; ?><br />
-	                              <?php echo $city . ', ' . $state . ', ' . $postal_code; ?></span>
-	                            </span>
-"6	LINE	0
-	                            <span style="font-weight:bold;">
-	                              <?php echo ucfirst($first_name . ' ' . $last_name); ?><br />
-	                              <span class="ios-font-fix2"><?php echo $address_1 . ' ' . $address_2; ?><br />
-	                              <?php echo $city . ', ' . $state . ', ' . $postal_code; ?></span>
-	                            </span>
-"7	LINE	0
-	                            <span style="font-weight:bold;">
-	                              <?php echo ucfirst($first_name . ' ' . $last_name); ?><br />
-	                              <span class="ios-font-fix2"><?php echo $address_1 . ' ' . $address_2; ?><br />
-	                              <?php echo $city . ', ' . $state . ', ' . $postal_code; ?></span>
-	                            </span>
-"8	LINE	0
+"0	LINE	0
+	# Numerous always-ignore extensions
+	*.diff
+	*.err
+	*.orig
+	*.log
+	*.rej
+	*.swo
+	*.swp
+	*.vi
+	*~
 	
+	# It's better to unpack these files and commit the raw source because
+	# git has its own built in compression methods.
+	*.7z
+	*.jar
+	*.rar
+	*.zip
+	*.gz
+	*.bzip
+	*.bz2
+	*.xz
+	*.lzma
+	
+	#packing-only formats
+	*.iso
+	*.tar
+	
+	#package management formats
+	*.dmg
+	*.xpi
+	*.gem
+	*.egg
+	*.deb
+	*.rpm
+	
+	# OS or Editor folders
+	.DS_Store
+	.AppleDouble
+	.LSOverride
+	Icon
+	._*
+	.Spotlight-V100
+	.Trashes
+	/*.sublime-project
+	*.sublime-workspace
+	_notes
+	dwsync.xml
+	.*.sw[a-z]
+	*.un~
+	Session.vim
+""1	LINE	0
+	
+"2	LINE	0
+	# Numerous always-ignore extensions
+	*.diff
+	*.err
+	*.orig
+	*.log
+	*.rej
+	*.swo
+	*.swp
+	*.vi
+	*~
+	
+	# It's better to unpack these files and commit the raw source because
+	# git has its own built in compression methods.
+	*.7z
+	*.jar
+	*.rar
+	*.zip
+	*.gz
+	*.bzip
+	*.bz2
+	*.xz
+	*.lzma
+	
+	#packing-only formats
+	*.iso
+	*.tar
+	
+	#package management formats
+	*.dmg
+	*.xpi
+	*.gem
+	*.egg
+	*.deb
+	*.rpm
+	
+	# OS or Editor folders
+	.DS_Store
+	.AppleDouble
+	.LSOverride
+	Icon
+	._*
+	.Spotlight-V100
+	.Trashes
+	*.sublime-project
+	*.sublime-workspace
+	_notes
+	dwsync.xml
+	.*.sw[a-z]
+	*.un~
+	Session.vim
+"3	LINE	0
+	 
+"4	LINE	0
+	# Numerous always-ignore extensions
+	*.diff
+	*.err
+	*.orig
+	*.log
+	*.rej
+	*.swo
+	*.swp
+	*.vi
+	*~
+	
+	# It's better to unpack these files and commit the raw source because
+	# git has its own built in compression methods.
+	*.7z
+	*.jar
+	*.rar
+	*.zip
+	*.gz
+	*.bzip
+	*.bz2
+	*.xz
+	*.lzma
+	
+	#packing-only formats
+	*.iso
+	*.tar
+	
+	#package management formats
+	*.dmg
+	*.xpi
+	*.gem
+	*.egg
+	*.deb
+	*.rpm
+	
+	# OS or Editor folders
+	.DS_Store
+	.AppleDouble
+	.LSOverride
+	Icon
+	._*
+	.Spotlight-V100
+	.Trashes
+	*.sublime-project
+	*.sublime-workspace
+	_notes
+	dwsync.xml
+	.*.sw[a-z]
+	*.un~
+	Session.vim
+"5	LINE	0
+	    first_run: true,
+"6	LINE	0
+	        if (ref.first_run) {
+	          $(window).scrollTop(0);
+	          ref.first_run = false;
+	          ref.formLand();
+	        }
+"7	LINE	0
+	      console.log(params);
+"8	LINE	0
+	      params['top'] = (parseFloat(params['top']) - parseFloat(params['padding-top'])) + 'px';
 "9	LINE	0
-	  drupal_set_message('<pre>'.print_r($donor_fields_visibility, true).'</pre>');
-"-	CHAR	0
-	p
+	      params['top'] -= parseFloat(params['padding-top']) + 'px'
+"-	LINE	0
+	# Numerous always-ignore extensions
+	*.diff
+	*.err
+	*.orig
+	*.log
+	*.rej
+	*.swo
+	*.swp
+	*.vi
+	*~
+	
+	# It's better to unpack these files and commit the raw source because
+	# git has its own built in compression methods.
+	*.7z
+	*.jar
+	*.rar
+	*.zip
+	*.gz
+	*.bzip
+	*.bz2
+	*.xz
+	*.lzma
+	
+	#packing-only formats
+	*.iso
+	*.tar
+	
+	#package management formats
+	*.dmg
+	*.xpi
+	*.gem
+	*.egg
+	*.deb
+	*.rpm
+	
+	# OS or Editor folders
+	.DS_Store
+	.AppleDouble
+	.LSOverride
+	Icon
+	._*
+	.Spotlight-V100
+	.Trashes
+	*.sublime-project
+	*.sublime-workspace
+	_notes
+	dwsync.xml
+	.*.sw[a-z]
+	*.un~
+	Session.vim
 
 # File marks:
-'0  33  25  ~/.dotfiles/.gitignore
-'1  31  0  ~/.dotfiles/.gitignore
-'2  52  0  ~/.dotfiles/NERD_tree_1
-'3  143  0  ~/.vimrc
-'4  19  0  ~/Sites/ch/.gitignore
-'5  141  26  ~/.vimrc
-'6  1  0  ~/Sites/awf/.git/MERGE_MSG
-'7  190  32  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
-'8  87  0  ~/Sites/analytics/app/controllers/imports_controller.rb
-'9  12  0  ~/Sites/ch/sites/all/modules/addthis/addthis.module
+'0  5  0  ~/.gitignore_global
+'1  34  28  ~/.dotfiles/git/gitconfig.symlink
+'2  48  0  ~/.ssh/config
+'3  61  0  ~/Sites/awf/campaigns/pledge/js/main.js
+'4  1  0  ~/Sites/cmow/NERD_tree_1
+'5  1  0  ~/Sites/ch/.git/MERGE_MSG
+'6  15  2  ~/Sites/awf/campaigns/pledge/laravel/app/views/pledge.php
+'7  8  0  ~/.dotfiles/zsh/aliases.zsh
+'8  12  19  ~/Sites/awf/campaigns/pledge/pledge_f/NERD_tree_1
+'9  14  17  ~/Sites/awf/campaigns/pledge/config.rb
 
 # Jumplist (newest first):
--'  33  25  ~/.dotfiles/.gitignore
--'  1  0  ~/.dotfiles/.gitignore
--'  31  0  ~/.dotfiles/.gitignore
--'  52  0  ~/.dotfiles/NERD_tree_1
--'  70  2  ~/.dotfiles/NERD_tree_1
--'  1  0  ~/.dotfiles/NERD_tree_1
--'  143  0  ~/.vimrc
--'  11  0  ~/.dotfiles/tmux/tmux.conf.symlink
--'  1  0  ~/.dotfiles/tmux/tmux.conf.symlink
--'  19  0  ~/Sites/ch/.gitignore
--'  1  0  ~/Sites/ch/.gitignore
--'  141  26  ~/.vimrc
--'  1  0  ~/Sites/analytics/app/controllers/clients_controller.rb
--'  1  0  ~/Sites/awf/.git/MERGE_MSG
--'  190  32  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  178  56  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  997  33  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  668  81  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  651  100  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  649  55  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  648  26  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  640  15  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  639  25  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  502  110  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  290  10  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  192  44  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  188  53  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  13  0  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.css
--'  1  0  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.css
--'  87  0  ~/Sites/analytics/app/controllers/imports_controller.rb
--'  68  0  ~/Sites/analytics/app/controllers/application_controller.rb
--'  209  0  ~/Sites/ch/sites/www.covenanthouse.org/themes/covenant/template.php
--'  1  0  ~/Sites/ch/sites/www.covenanthouse.org/themes/covenant/screenshot.png
--'  12  0  ~/Sites/ch/sites/all/modules/addthis/addthis.module
--'  1  0  ~/Sites/ch/sites/all/modules/addthis/addthis.install
--'  1  0  ~/Sites/ch/sites/all/modules/addthis/addthis.admin.css
--'  22  15  ~/Sites/analytics/app/controllers/application_controller.rb
--'  1  0  ~/Sites/analytics/app/controllers/application_controller.rb
--'  545  0  ~/NERD_tree_1
--'  12  0  ~/.dotfiles/bin/movieme
--'  5  0  ~/.dotfiles/bin/git-amend
--'  1  0  ~/.dotfiles/bin/git-amend
--'  1  0  ~/Sites/ch/.git/MERGE_MSG
--'  618  2  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.inc
--'  1  0  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.inc
--'  66  0  ~/.vimrc
--'  58  32  ~/.vimrc
--'  603  2  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.inc
--'  489  128  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  501  127  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  1  0  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  234  78  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  233  10  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  222  1  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  47  2  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/monthly-donor-default.tpl.php
--'  54  0  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/donor-default.tpl.php
--'  55  0  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/monthly-donor-default.tpl.php
--'  45  79  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/donor-default.tpl.php
--'  178  0  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/monthly-donor-default.tpl.php
--'  178  0  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/donor-default.tpl.php
--'  179  0  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/donor-default.tpl.php
--'  185  0  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/donor-default.tpl.php
--'  186  28  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/monthly-donor-default.tpl.php
--'  51  12  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/donor-default.tpl.php
--'  181  44  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/donor-default.tpl.php
--'  880  16  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  864  5  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  867  6  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  793  86  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  704  28  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  703  28  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  702  0  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  500  53  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  549  10  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  542  0  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  551  0  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  537  58  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  530  1  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  214  16  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
--'  18  0  ~/Sites/ch/sites/all/themes/locations/locations.info
--'  80  2  ~/Sites/ch/sites/all/themes/locations/tpl.php/page/html.tpl.php
--'  73  0  ~/Sites/ch/sites/all/themes/locations/tpl.php/page/maintenance-page--offline.tpl.php
--'  73  0  ~/Sites/ch/sites/all/themes/locations/tpl.php/page/maintenance-page.tpl.php
--'  1  0  ~/Sites/ch/sites/all/themes/locations/tpl.php/page/page--404.tpl.php
--'  256  12  ~/Sites/ch/sites/all/themes/locations/tpl.php/page/page--front.tpl.php
--'  263  12  ~/Sites/ch/sites/all/themes/locations/tpl.php/page/page--node--92.tpl.php
--'  29  104  ~/Sites/ch/sites/all/themes/locations/locations.info
--'  45  17  ~/Sites/ch/sites/all/themes/locations/template.php
--'  131  0  ~/Sites/ch/sites/all/themes/locations/theme-settings.php
--'  143  26  ~/Sites/ch/sites/all/themes/locations/theme-settings.php
--'  110  0  ~/Sites/ch/sites/all/themes/locations/template.php
--'  1191  4  ~/Sites/ch/sites/all/themes/locations/sass/screen.scss
--'  83  65  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/nj-donor-default.tpl.php
--'  47  2  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/monthly-donor-default.tpl.php
--'  54  0  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/donor-default.tpl.php
--'  55  0  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/monthly-donor-default.tpl.php
--'  45  79  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/donor-default.tpl.php
--'  178  0  ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/monthly-donor-default.tpl.php
+-'  5  0  ~/.gitignore_global
+-'  1  0  ~/.gitignore_global
+-'  1  0  ~/.dotfiles/git/.gitignore_global
+-'  127  0  ~/.dotfiles/git/.gitignore_global
+-'  128  0  ~/.dotfiles/git/.gitignore_global
+-'  35  8  ~/.dotfiles/git/gitconfig.symlink
+-'  1  0  ~/.dotfiles/git/gitconfig.symlink
+-'  34  28  ~/.dotfiles/git/gitconfig.symlink
+-'  48  0  ~/.ssh/config
+-'  1  0  ~/.ssh/ffh_rsa
+-'  61  0  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  21  0  ~/Sites/awf/campaigns/pledge/laravel/app/views/pledge.blade.php
+-'  16  38  ~/Sites/awf/campaigns/pledge/laravel/app/views/layout.blade.php
+-'  33  17  ~/Sites/awf/campaigns/pledge/laravel/app/views/pledge.blade.php
+-'  23  12  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  24  20  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  14  3  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  1  13  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  36  6  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  19  20  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  41  17  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  42  18  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  133  3  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  61  0  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  21  0  ~/Sites/awf/campaigns/pledge/laravel/app/views/pledge.blade.php
+-'  16  38  ~/Sites/awf/campaigns/pledge/laravel/app/views/layout.blade.php
+-'  33  17  ~/Sites/awf/campaigns/pledge/laravel/app/views/pledge.blade.php
+-'  23  12  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  24  20  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  14  3  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  1  13  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  36  6  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  19  20  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  41  17  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  42  18  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  133  3  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  61  0  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  21  0  ~/Sites/awf/campaigns/pledge/laravel/app/views/pledge.blade.php
+-'  16  38  ~/Sites/awf/campaigns/pledge/laravel/app/views/layout.blade.php
+-'  33  17  ~/Sites/awf/campaigns/pledge/laravel/app/views/pledge.blade.php
+-'  23  12  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  24  20  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  14  3  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  1  13  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  36  6  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  19  20  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  41  17  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  42  18  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  133  3  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  61  0  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  21  0  ~/Sites/awf/campaigns/pledge/laravel/app/views/pledge.blade.php
+-'  16  38  ~/Sites/awf/campaigns/pledge/laravel/app/views/layout.blade.php
+-'  33  17  ~/Sites/awf/campaigns/pledge/laravel/app/views/pledge.blade.php
+-'  23  12  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  24  20  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  14  3  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  1  13  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  36  6  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  19  20  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  41  17  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  42  18  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  133  3  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  48  0  ~/.ssh/config
+-'  1  0  ~/.ssh/ffh_rsa
+-'  61  0  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  21  0  ~/Sites/awf/campaigns/pledge/laravel/app/views/pledge.blade.php
+-'  16  38  ~/Sites/awf/campaigns/pledge/laravel/app/views/layout.blade.php
+-'  33  17  ~/Sites/awf/campaigns/pledge/laravel/app/views/pledge.blade.php
+-'  23  12  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  24  20  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  14  3  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  1  13  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  36  6  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  19  20  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  41  17  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  42  18  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  133  3  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  61  0  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  21  0  ~/Sites/awf/campaigns/pledge/laravel/app/views/pledge.blade.php
+-'  16  38  ~/Sites/awf/campaigns/pledge/laravel/app/views/layout.blade.php
+-'  33  17  ~/Sites/awf/campaigns/pledge/laravel/app/views/pledge.blade.php
+-'  23  12  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  24  20  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  14  3  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  1  13  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  36  6  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  19  20  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  41  17  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  42  18  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  133  3  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  61  0  ~/Sites/awf/campaigns/pledge/js/main.js
+-'  21  0  ~/Sites/awf/campaigns/pledge/laravel/app/views/pledge.blade.php
+-'  16  38  ~/Sites/awf/campaigns/pledge/laravel/app/views/layout.blade.php
+-'  33  17  ~/Sites/awf/campaigns/pledge/laravel/app/views/pledge.blade.php
+-'  23  12  ~/Sites/awf/campaigns/pledge/js/main.js
 
 # History of marks within files (newest to oldest):
 
-> ~/.dotfiles/.gitignore
-	"	33	25
-	^	33	26
-	.	33	25
-	+	32	0
-	+	33	25
+> ~/.dotfiles/git/gitconfig.symlink
+	"	35	8
+	^	34	32
+	.	34	31
+	+	34	31
 
 > ~/.dotfiles/NERD_tree_1
+	"	59	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/.dotfiles/git/.gitignore_global
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.gitignore_global
+	"	5	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/.ssh/ffh_rsa
+	"	1	0
+
+> ~/NERD_tree_1
+	"	27	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/.ssh/config
+	"	48	0
+	^	22	0
+	.	25	0
+	+	61	11
+	+	64	0
+	+	65	19
+	+	65	0
+	+	6	0
+	+	6	6
+	+	6	9
+	+	6	0
+	+	19	0
+	+	18	9
+	+	19	9
+	+	20	12
+	+	42	0
+	+	43	0
+	+	42	7
+	+	43	9
+	+	44	12
+	+	47	0
+	+	47	0
+	+	42	0
+	+	36	0
+	+	35	7
+	+	36	9
+	+	37	12
+	+	32	0
+	+	39	0
+	+	46	0
+	+	49	0
+	+	55	0
+	+	57	9
+	+	58	12
+	+	56	9
+	+	60	0
+	+	61	0
+	+	61	9
+	+	61	0
+	+	32	0
+	+	25	0
+	+	29	0
+	+	28	8
+	+	29	9
+	+	30	12
+	+	27	8
+	+	33	4
+	+	34	8
+	+	40	4
+	+	41	8
+	+	4	0
+	+	3	0
+	+	4	4
+	+	5	8
+	+	10	0
+	+	3	0
+	+	16	0
+	+	15	0
+	+	16	4
+	+	17	8
+	+	22	0
+	+	23	0
+	+	25	0
+
+> ~/Sites/awf/campaigns/pledge/laravel/app/models/Signer.php
+	"	29	0
+	^	18	12
+	.	18	11
+	+	3	27
+	+	1	5
+	+	3	29
+	+	4	1
+	+	5	75
+	+	7	0
+	+	6	0
+	+	8	0
+	+	29	14
+	+	30	0
+	+	29	41
+	+	28	46
+	+	21	72
+	+	8	13
+	+	26	43
+	+	27	41
+	+	28	39
+	+	23	0
+	+	23	0
+	+	20	0
+	+	18	53
+	+	20	49
+	+	19	15
+	+	23	0
+	+	22	14
+	+	29	45
+	+	21	75
+	+	18	11
+
+> ~/Sites/awf/campaigns/pledge/NERD_tree_1
+	"	14	12
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/Sites/awf/campaigns/pledge/laravel/app/routes.php
+	"	15	16
+	^	15	17
+	.	15	16
+	+	16	25
+	+	16	33
+	+	16	2
+	+	16	0
+	+	14	41
+	+	16	0
+	+	14	44
+	+	15	16
+
+> ~/Sites/awf/campaigns/pledge/laravel/app/controllers/PledgeController.php
+	"	37	0
+	^	35	55
+	.	36	21
+	+	18	27
+	+	20	26
+	+	3	21
+	+	7	0
+	+	3	11
+	+	7	8
+	+	18	0
+	+	7	0
+	+	23	32
+	+	24	3
+	+	26	2
+	+	25	25
+	+	40	0
+	+	31	0
+	+	35	54
+	+	38	42
+	+	36	21
+
+> ~/Sites/awf/campaigns/pledge/laravel/app/database/migrations/2014_06_18_172601_create_signers_table.php
+	"	26	4
+	^	20	42
+	.	20	31
+	+	15	2
+	+	20	0
+	+	18	36
+	+	19	32
+	+	21	31
+	+	20	31
+	+	15	24
+	+	33	24
+	+	20	33
+	+	21	33
+	+	20	31
+
+> ~/Sites/awf/campaigns/pledge/laravel/app/database/production.sqlite
+	"	1	0
+
+> ~/Sites/awf/campaigns/pledge/laravel/app/database/seeds/DatabaseSeeder.php
+	"	15	0
+
+> ~/Sites/awf/campaigns/pledge/laravel/app/models/User.php
+	"	20	1
+
+> ~/Sites/awf/campaigns/pledge/laravel/app/views/pledge.blade.php
+	"	21	0
+	.	13	0
+	+	56	45
+	+	56	34
+	+	56	59
+	+	56	6
+	+	56	39
+	+	56	44
+	+	56	42
+	+	56	40
+	+	56	45
+	+	56	44
+	+	56	42
+	+	56	40
+	+	56	45
+	+	56	22
+	+	56	18
+	+	56	31
+	+	56	0
+	+	56	0
+	+	56	13
+	+	56	0
+	+	56	0
+	+	7	0
+	+	56	0
+	+	7	26
+	+	11	25
+	+	56	25
+	+	56	0
+	+	13	0
+	+	12	73
+	+	13	0
+	+	12	44
+	+	69	29
+	+	113	0
+	+	69	0
+	+	113	0
+	+	69	0
+	+	11	0
+	+	69	0
+	+	10	0
+	+	69	17
+	+	69	24
+	+	113	0
+	+	69	23
+	+	11	25
+	+	56	25
+	+	56	32
+	+	56	0
+	+	56	15
+	+	56	0
+	+	56	0
+	+	10	27
+	+	56	0
+	+	56	0
+	+	56	0
+	+	56	37
+	+	56	0
+	+	56	17
+	+	56	0
+	+	6	0
+	+	113	0
+	+	76	0
+	+	77	0
+	+	113	0
+	+	78	0
+	+	113	0
+	+	78	0
+	+	113	0
+	+	81	53
+	+	113	0
+	+	78	47
+	+	81	52
+	+	78	45
+	+	81	50
+	+	78	45
+	+	81	50
+	+	78	47
+	+	81	52
+	+	82	33
+	+	79	85
+	+	78	0
+	+	109	1
+	+	91	0
+	+	109	0
+	+	113	0
+	+	112	0
+	+	113	21
+	+	112	0
+	+	69	0
+	+	15	0
+	+	57	0
+	+	15	30
+	+	15	0
+	+	15	0
+	+	14	0
+	+	15	0
+	+	14	97
+	+	57	117
+	+	57	134
+	+	12	73
+	+	13	0
+
+> ~/Sites/awf/campaigns/pledge/laravel/app/storage/logs/laravel.log
+	"	1970	0
+
+> ~/Sites/awf/campaigns/pledge/laravel/app/config/database.php
+	"	96	0
+	^	60	23
+	.	60	22
+	+	58	28
+	+	59	22
+	+	60	22
+
+> ~/Sites/awf/campaigns/pledge/laravel/app/config/queue.php
+	"	40	3
+
+> ~/Sites/awf/campaigns/pledge/laravel/app/config/remote.php
+	"	51	0
+
+> ~/Sites/awf/campaigns/pledge/laravel/app/config/services.php
+	"	12	0
+
+> ~/Sites/awf/campaigns/pledge/laravel/app/config/session.php
+	"	140	0
+
+> ~/Sites/awf/campaigns/pledge/laravel/app/config/view.php
+	"	17	0
+
+> ~/Sites/awf/campaigns/pledge/laravel/app/config/workbench.php
+	"	11	0
+
+> ~/Sites/awf/campaigns/pledge/laravel/app/controllers/BaseController.php
+	"	6	0
+
+> ~/Sites/awf/campaigns/pledge/laravel/app/views/emails/auth/reminder.blade.php
+	"	14	0
+
+> ~/Sites/awf/campaigns/pledge/laravel/app/views/emails/confirmation-html.blade.php
+	"	7	0
+	^	18	41
+	.	18	40
+	+	1	0
+	+	7	14
+	+	19	0
+	+	9	12
+	+	9	0
+	+	9	35
+	+	9	33
+	+	19	0
+	+	9	35
+	+	9	40
+	+	9	0
+	+	10	0
+	+	9	0
+	+	9	0
+	+	9	0
+	+	7	0
+	+	11	0
+	+	11	156
+	+	13	0
+	+	13	207
+	+	13	133
+	+	13	151
+	+	13	192
+	+	15	27
+	+	17	25
+	+	18	40
+
+> ~/Sites/awf/campaigns/pledge/laravel/app/views/emails/confirmation-text.blade.php
+	"	5	75
+	^	1	23
+	.	3	0
+	+	2	23
+	+	11	0
+	+	2	0
+	+	1	23
+	+	3	0
+
+> ~/Sites/awf/campaigns/pledge/laravel/app/config/mail.php
+	"	1	0
+
+> ~/Sites/awf/campaigns/pledge/sass/styles.scss
+	"	60	4
+	^	60	6
+	.	60	4
+	+	77	0
+	+	145	0
+	+	69	15
+	+	77	0
+	+	69	13
+	+	70	16
+	+	76	4
+	+	72	18
+	+	106	0
+	+	114	16
+	+	119	0
+	+	122	0
+	+	104	13
+	+	72	14
+	+	69	13
+	+	72	14
+	+	312	18
+	+	314	6
+	+	313	18
+	+	69	13
+	+	69	22
+	+	67	0
+	+	78	0
+	+	79	0
+	+	70	13
+	+	70	4
+	+	70	18
+	+	70	13
+	+	70	27
+	+	69	0
+	+	71	0
+	+	70	0
+	+	73	0
+	+	73	30
+	+	73	21
+	+	75	6
+	+	74	26
+	+	73	26
+	+	73	0
+	+	54	0
+	+	53	0
+	+	142	14
+	+	56	14
+	+	49	16
+	+	65	14
+	+	171	0
+	+	171	0
+	+	173	4
+	+	172	25
+	+	173	8
+	+	184	4
+	+	184	0
+	+	185	0
+	+	178	8
+	+	178	0
+	+	181	0
+	+	184	0
+	+	185	0
+	+	186	0
+	+	174	16
+	+	181	0
+	+	180	28
+	+	177	24
+	+	171	15
+	+	180	29
+	+	178	28
+	+	181	0
+	+	171	0
+	+	171	0
+	+	171	17
+	+	180	17
+	+	178	0
+	+	181	0
+	+	179	19
+	+	171	18
+	+	175	17
+	+	176	20
+	+	149	0
+	+	102	26
+	+	102	0
+	+	102	16
+	+	102	26
+	+	102	0
+	+	98	18
+	+	61	26
+	+	61	29
+	+	61	49
+	+	62	0
+	+	61	0
+	+	60	0
+	+	44	0
+	+	45	0
+	+	45	2
+	+	45	0
+	+	44	4
+	+	60	4
+	+	44	3
+	+	60	5
+	+	44	2
+	+	60	4
+
+> ~/Sites/awf/campaigns/pledge/sass/_variables.scss
+	"	309	0
+
+> ~/Sites/awf/campaigns/pledge/config.rb
+	"	9	18
+	^	6	30
+	.	6	29
+	+	6	15
+	+	4	13
+	+	6	29
+
+> ~/Sites/awf/campaigns/pledge/js/main.js
+	"	61	0
+	^	82	75
+	.	83	0
+	+	102	0
+	+	86	75
+	+	111	15
+	+	113	0
+	+	121	15
+	+	122	0
+	+	86	97
+	+	92	36
+	+	86	0
+	+	86	0
+	+	86	0
+	+	102	0
+	+	102	0
+	+	95	65
+	+	102	0
+	+	86	77
+	+	111	11
+	+	86	40
+	+	77	0
+	+	77	0
+	+	76	0
+	+	76	0
+	+	86	0
+	+	87	0
+	+	86	0
+	+	121	11
+	+	121	0
+	+	111	11
+	+	114	10
+	+	111	10
+	+	86	0
+	+	87	0
+	+	84	0
+	+	81	76
+	+	21	4
+	+	121	45
+	+	121	26
+	+	61	39
+	+	112	26
+	+	59	32
+	+	60	34
+	+	61	25
+	+	113	37
+	+	21	21
+	+	126	0
+	+	21	0
+	+	68	41
+	+	121	0
+	+	113	0
+	+	21	21
+	+	93	22
+	+	94	31
+	+	97	32
+	+	98	30
+	+	99	36
+	+	101	25
+	+	99	37
+	+	101	0
+	+	101	23
+	+	81	94
+	+	81	95
+	+	81	103
+	+	81	104
+	+	81	110
+	+	81	118
+	+	81	119
+	+	71	33
+	+	72	63
+	+	81	91
+	+	81	97
+	+	81	98
+	+	111	41
+	+	20	64
+	+	121	0
+	+	120	0
+	+	60	43
+	+	60	0
+	+	60	30
+	+	60	0
+	+	60	0
+	+	60	0
+	+	60	80
+	+	60	92
+	+	60	0
+	+	60	0
+	+	20	0
+	+	101	0
+	+	120	0
+	+	22	0
+	+	134	30
+	+	136	2
+	+	135	26
+	+	136	3
+	+	106	9
+	+	100	0
+	+	100	23
+	+	82	0
+	+	82	0
+	+	82	0
+	+	83	0
+
+> ~/Sites/awf/campaigns/pledge/js/plugins.js
+	"	24	43
+	^	36	0
+	.	36	1
+	+	48	3839
+	+	48	0
+	+	48	3840
+	+	48	3844
+	+	48	3852
+	+	48	3853
+	+	48	3868
+	+	48	0
+	+	48	3872
+	+	48	3888
+	+	48	3889
+	+	48	3890
+	+	48	3893
+	+	48	3909
+	+	48	3913
+	+	48	3919
+	+	48	3937
+	+	48	3946
+	+	48	0
+	+	48	3947
+	+	48	3950
+	+	48	0
+	+	48	3951
+	+	48	3954
+	+	48	3955
+	+	48	3956
+	+	48	3957
+	+	48	3958
+	+	48	3971
+	+	48	0
+	+	48	3972
+	+	48	3977
+	+	48	3999
+	+	48	4000
+	+	48	4009
+	+	48	4010
+	+	48	4041
+	+	48	4051
+	+	48	4073
+	+	48	0
+	+	48	4084
+	+	48	4085
+	+	48	4089
+	+	48	4128
+	+	48	4130
+	+	48	4157
+	+	48	4161
+	+	48	4162
+	+	48	4166
+	+	48	4169
+	+	48	4173
+	+	48	4174
+	+	48	4181
+	+	48	4187
+	+	48	4195
+	+	48	4196
+	+	48	4213
+	+	48	4224
+	+	48	0
+	+	48	4225
+	+	48	4233
+	+	48	4234
+	+	48	4235
+	+	48	4236
+	+	48	4238
+	+	48	4239
+	+	48	4258
+	+	48	4262
+	+	48	4263
+	+	48	4265
+	+	48	4281
+	+	48	4284
+	+	48	4288
+	+	48	4311
+	+	48	4320
+	+	48	0
+	+	48	4335
+	+	48	4336
+	+	48	4337
+	+	48	4338
+	+	48	4339
+	+	48	4342
+	+	48	0
+	+	48	4343
+	+	48	4347
+	+	48	0
+	+	48	4413
+	+	48	4414
+	+	48	4420
+	+	48	4426
+	+	48	4457
+	+	48	4458
+	+	48	4466
+	+	48	4469
+	+	48	4470
+	+	48	4473
+	+	48	4477
+	+	48	0
+	+	35	0
+	+	36	1
+
+> ~/Sites/awf/campaigns/pledge/laravel/app/views/layout.blade.php
+	"	16	38
+	^	23	19
+	.	16	37
+	+	23	19
+	+	16	37
+
+> ~/Sites/awf/campaigns/pledge/js/vendor/modernizr-2.8.2.min.js
+	"	4	0
+	^	4	2
+	.	4	0
+	+	4	0
+
+> ~/Sites/awf/campaigns/pledge/laravel/.gitignore
+	"	3	0
+
+> ~/Sites/awf/campaigns/pledge/laravel/NERD_tree_1
 	"	21	0
 	.	1	0
 	+	1	0
@@ -333,852 +1521,187 @@ $
 	+	1	0
 	+	1	0
 	+	1	0
-
-> ~/.dotfiles/tmux/tmux.conf.symlink
-	"	11	0
-
-> ~/.vimrc
-	"	143	0
-	^	142	0
-	.	141	0
-	+	206	0
-	+	56	0
-	+	55	0
-	+	317	0
-	+	315	0
-	+	314	6
-	+	314	0
-	+	313	0
-	+	60	0
-	+	59	0
-	+	141	0
-
-> ~/Sites/ch/.gitignore
-	"	19	0
-
-> ~/Sites/ch/NERD_tree_1
-	"	20	0
-	.	1	0
 	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-
-> ~/NERD_tree_1
-	"	32	0
-	.	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-
-> ~/Sites/analytics/app/controllers/clients_controller.rb
-	"	1	0
-
-> ~/Sites/awf/landing/2013/05/poaching-infographic/index.php
-	"	182	60
-	^	136	22
-	.	183	29
-	+	135	24
-	+	134	23
-	+	135	24
-	+	137	0
-	+	135	57
-	+	136	21
-	+	183	29
 
 > ~/Sites/awf/NERD_tree_1
-	"	47	0
-	.	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-
-> ~/Sites/awf/.git/MERGE_MSG
-	"	1	0
-
-> ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.css
-	"	13	0
-
-> ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.module
-	"	190	32
-	^	190	33
-	.	190	32
-	+	214	16
-	+	551	95
-	+	551	39
-	+	551	45
-	+	551	59
-	+	551	61
-	+	551	69
-	+	551	67
-	+	551	77
-	+	551	83
-	+	551	100
-	+	551	81
-	+	551	87
-	+	551	94
-	+	551	82
-	+	551	87
-	+	551	93
-	+	551	106
-	+	551	90
-	+	551	95
-	+	551	101
-	+	551	114
-	+	551	95
-	+	551	98
-	+	537	0
-	+	551	0
-	+	537	58
-	+	551	0
-	+	537	61
-	+	551	0
-	+	552	0
-	+	532	0
-	+	533	57
-	+	535	15
-	+	219	14
-	+	538	0
-	+	551	0
-	+	538	7
-	+	539	30
-	+	540	28
-	+	541	23
-	+	542	0
-	+	541	34
-	+	542	29
-	+	543	24
-	+	544	18
-	+	545	20
-	+	546	32
-	+	547	24
-	+	548	20
-	+	549	29
-	+	500	0
-	+	503	0
-	+	500	0
-	+	500	80
-	+	500	0
-	+	500	118
-	+	867	0
-	+	864	28
-	+	866	2
-	+	865	30
-	+	865	4
-	+	865	0
-	+	222	0
-	+	230	0
-	+	229	0
-	+	230	105
-	+	231	30
-	+	232	58
-	+	233	229
-	+	233	115
-	+	233	0
-	+	233	129
-	+	233	0
-	+	233	206
-	+	234	107
-	+	233	40
-	+	233	205
-	+	501	84
-	+	501	85
-	+	501	0
-	+	501	88
-	+	503	0
-	+	501	128
-	+	188	0
-	+	187	0
-	+	188	92
-	+	189	29
-	+	190	25
-	+	196	81
-	+	190	46
-	+	191	83
-	+	192	83
-	+	502	85
-	+	502	86
-	+	502	126
-	+	502	127
-	+	502	130
-	+	192	107
-	+	190	32
-
-> ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/sanky_donation_form.inc
-	"	192	112
-	^	192	113
-	.	192	112
-	+	93	0
-	+	93	0
-	+	93	33
-	+	93	2
-	+	93	39
-	+	93	40
-	+	93	49
-	+	93	48
-	+	702	1
-	+	702	0
-	+	701	0
-	+	706	0
-	+	93	0
-	+	704	0
-	+	708	61
-	+	705	70
-	+	705	0
-	+	706	0
-	+	707	59
-	+	706	48
-	+	708	63
-	+	92	0
-	+	706	0
-	+	276	0
-	+	706	0
-	+	708	0
-	+	708	0
-	+	708	0
-	+	703	38
-	+	704	0
-	+	710	0
-	+	296	0
-	+	295	28
-	+	691	0
-	+	690	0
-	+	691	43
-	+	692	43
-	+	691	78
-	+	692	34
-	+	695	50
-	+	698	6
-	+	696	26
-	+	697	22
-	+	731	0
-	+	732	0
-	+	733	31
-	+	737	36
-	+	738	0
-	+	736	8
-	+	733	14
-	+	754	6
-	+	758	0
-	+	757	6
-	+	760	6
-	+	763	6
-	+	757	27
-	+	760	27
-	+	763	22
-	+	767	0
-	+	768	0
-	+	767	25
-	+	697	18
-	+	696	26
-	+	698	7
-	+	774	23
-	+	692	0
-	+	692	0
-	+	692	60
-	+	694	60
-	+	695	54
-	+	692	0
-	+	184	103
-	+	184	105
-	+	192	89
-	+	192	96
-	+	192	112
-
-> ~/Sites/ch/.htaccess
-	"	951	76
-	.	951	76
-	+	951	76
-
-> ~/Sites/awf/safari-sweepstakes/laravel/vendor/composer/autoload_namespaces.php
-	"	1	0
-
-> ~/Sites/awf/safari-sweepstakes/laravel/NERD_tree_1
-	"	17	0
-	.	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-
-> ~/Sites/ch/.git/MERGE_MSG
-	"	1	0
-
-> ~/Sites/ch/sites/www.covenanthouse.org/themes/covenant/screenshot.png
-	"	1	0
-
-> ~/Sites/ch/sites/www.covenanthouse.org/themes/covenant/template.php
-	"	209	0
-	^	110	65
-	.	111	0
-	+	110	45
-	+	109	147
-	+	110	0
-	+	111	41
-	+	111	41
-	+	111	91
-	+	110	64
-	+	111	0
-
-> ~/Sites/analytics/app/controllers/application_controller.rb
-	"	68	0
-
-> ~/Sites/analytics/app/controllers/imports_controller.rb
-	"	87	0
-
-> ~/Sites/ch/NERD_tree_2
-	"	14	0
-	.	1	0
-	+	1	0
-
-> ~/Sites/ch/sites/all/modules/pathauto/pathauto.install
-	"	101	6
-
-> ~/Sites/ch/sites/all/modules/addthis/addthis.admin.css
-	"	1	0
-
-> ~/Sites/ch/sites/all/modules/addthis/addthis.install
-	"	1	0
-
-> ~/Sites/ch/sites/all/modules/addthis/addthis.module
-	"	12	0
-
-> ~/.dotfiles/bin/git-amend
-	"	5	0
-
-> ~/.dotfiles/bin/movieme
-	"	12	0
-
-> ~/.dotfiles/vim/vim.symlink/bundle/vundle/NERD_tree_1
-	"	12	0
-	.	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-
-> ~/.dotfiles/vim/vim.symlink/bundle/vundle/[Vundle] Installer
-	"	42	0
-	.	1	0
-	+	1	0
-
-> ~/Sites/ch/[Vundle] Installer
-	"	41	0
-	.	1	0
-	+	1	0
-
-> /private/var/folders/jq/6kmkl4kj4jbcjd8mx1tctc9h0000gp/T/vVPuRV4/134
-	"	1	0
-
-> ~/Sites/ch/sites/all/themes/locations/tpl.php/page/html.tpl.php
-	"	80	2
-
-> ~/Sites/ch/sites/www.ny.covenanthouse.org/settings.php
-	"	33	0
-
-> ~/Sites/ch/sites/all/themes/locations/tpl.php/page/page.tpl.php
-	"	209	14
-	^	221	61
-	.	221	0
-	+	139	182
-	+	189	13
-	+	190	0
-	+	229	12
-	+	230	14
-	+	190	37
-	+	189	14
-	+	229	15
-	+	230	16
-	+	189	13
-	+	190	26
-	+	228	0
-	+	219	12
-	+	228	0
-	+	220	0
-	+	221	0
-	+	220	37
-	+	221	0
-	+	222	15
-	+	223	19
-	+	224	13
-	+	225	15
-	+	228	0
-	+	226	18
-	+	226	18
-	+	227	0
-	+	219	0
-	+	221	62
-	+	224	80
-	+	221	0
-
-> ~/Sites/ch/sites/all/themes/locations/tpl.php/page/page--node--92.tpl.php
-	"	263	12
-	^	114	197
-	.	257	0
-	+	273	0
-	+	273	0
-	+	131	0
-	+	115	158
-	+	114	196
-	+	114	0
-	+	227	0
-	+	257	0
-
-> ~/Sites/ch/sites/all/modules/sanky_net/sanky_locations/sanky_locations.module
-	"	251	0
-	.	252	0
-	+	252	0
-	+	252	1
-	+	252	0
-	+	252	0
-	+	252	23
-	+	252	23
-	+	252	0
-	+	252	0
-
-> ~/Sites/ch/sites/all/modules/domain_analytics/domain_analytics.module
-	"	12	0
-	^	12	1
-	.	12	0
-	+	45	0
-	+	46	92
-	+	46	94
-	+	41	1
-	+	42	1
-	+	43	1
-	+	44	1
-	+	9	0
-	+	10	0
-	+	11	1
-	+	12	0
-
-> ~/Sites/ch/sites/all/themes/locations/template.php
-	"	45	17
-	^	45	18
-	.	45	17
-	+	46	17
-	+	47	22
-	+	45	17
-
-> ~/Sites/ch/sites/all/themes/locations/sass/screen.scss
-	"	1191	4
-	^	1187	18
-	.	1187	4
-	+	361	17
-	+	1021	8
-	+	1026	11
-	+	1027	0
-	+	1197	0
-	+	1026	11
-	+	1022	0
-	+	1029	40
-	+	1031	26
-	+	1027	17
-	+	1028	0
-	+	1030	0
-	+	1024	19
-	+	1187	4
-
-> ~/Sites/ch/sites/all/themes/locations/tpl.php/page/page--front.tpl.php
-	"	256	12
-	^	139	183
-	.	242	0
-	+	139	182
-	+	212	0
-	+	242	0
-
-> ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/nj-donor-default.tpl.php
-	"	83	65
-	^	82	0
-	.	82	0
-	+	52	43
-	+	52	164
-	+	57	0
-	+	54	0
-	+	55	0
-	+	54	335
-	+	57	0
-	+	56	0
-	+	56	189
-	+	56	190
-	+	56	268
-	+	56	303
-	+	56	329
-	+	57	0
-	+	56	337
-	+	84	38
-	+	86	40
-	+	231	274
-	+	230	285
-	+	230	0
-	+	230	284
-	+	233	259
-	+	233	0
-	+	233	345
-	+	233	366
-	+	195	86
-	+	69	163
-	+	69	0
-	+	57	0
-	+	83	0
-	+	56	331
-	+	83	0
-	+	84	0
-	+	82	0
-
-> ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/nj-monthly-donor-default.tpl.php
-	"	82	24
-	.	82	0
-	+	234	311
-	+	233	0
-	+	69	163
-	+	50	0
-	+	69	0
-	+	83	0
-	+	82	0
-	+	82	0
-
-> ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/ny-monthly-donor-default.tpl.php
-	"	24	0
-	.	134	0
-	+	139	0
-	+	134	0
-
-> ~/Sites/ch/sites/all/modules/sanky_net/sanky_subscriptions/sanky_subscriptions.module
-	"	97	8
-	^	313	26
-	.	313	25
-	+	190	0
-	+	189	0
-	+	190	67
-	+	192	37
-	+	193	115
-	+	194	105
-	+	196	21
-	+	233	95
-	+	288	17
-	+	287	91
-	+	287	92
-	+	287	94
-	+	288	45
-	+	290	20
-	+	288	0
-	+	290	0
-	+	289	28
-	+	290	12
-	+	292	4
-	+	293	0
-	+	291	0
-	+	293	0
-	+	234	0
-	+	229	88
-	+	90	0
-	+	89	0
-	+	90	49
-	+	94	102
-	+	229	88
-	+	91	30
-	+	95	0
-	+	95	0
-	+	92	43
-	+	93	78
-	+	417	0
-	+	417	0
-	+	419	0
-	+	419	0
-	+	419	53
-	+	425	20
-	+	427	12
-	+	426	45
-	+	392	0
-	+	371	0
-	+	371	0
-	+	436	17
-	+	419	0
-	+	426	0
-	+	426	0
-	+	426	57
-	+	426	0
-	+	104	17
-	+	105	0
-	+	104	31
-	+	313	25
-
-> ~/Sites/ch/__Tagbar__
-	"	9	4
-	.	43	0
-	+	43	0
-	+	43	0
-	+	43	0
-
-> ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/donor-default.tpl.php
-	"	54	0
-	^	45	80
-	.	45	79
-	+	49	0
-	+	50	0
-	+	53	18
-	+	45	79
-
-> ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/nj-donor-default.tpl.php
-	"	19	135
-	.	20	120
-	+	20	120
-
-> ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/nj-monthly-donor-default.tpl.php
-	"	35	0
-	.	20	120
-	+	20	120
-
-> ~/Sites/ch/sites/all/themes/locations/locations.info
 	"	18	0
-	^	29	26
-	.	23	0
-	+	28	18
-	+	29	25
-	+	29	30
-	+	30	30
-	+	23	0
-
-> ~/Sites/ch/sites/all/themes/locations/theme-settings.php
-	"	131	0
-	^	144	60
-	.	126	0
-	+	127	0
-	+	126	2
-	+	127	17
-	+	130	39
-	+	128	42
-	+	134	65
-	+	136	41
-	+	138	52
-	+	140	72
-	+	142	43
-	+	144	59
-	+	126	0
-
-> ~/Sites/ch/sites/all/themes/locations/tpl.php/page/page--404.tpl.php
-	"	1	0
-
-> ~/Sites/ch/sites/all/themes/locations/tpl.php/page/maintenance-page.tpl.php
-	"	73	0
-
-> ~/Sites/ch/sites/all/themes/locations/tpl.php/page/maintenance-page--offline.tpl.php
-	"	73	0
-
-> ~/Sites/ch/sites/all/modules/sanky_net/sanky_subscriptions/sanky_subscriptions_form.inc
-	"	145	0
-	.	202	0
-	+	182	0
-	+	182	87
-	+	182	93
-	+	269	12
-	+	271	35
-	+	270	38
-	+	271	0
-	+	272	0
-	+	271	0
-	+	271	0
-	+	271	0
-	+	103	0
-	+	102	0
-	+	130	4
-	+	130	4
-	+	130	85
-	+	130	0
-	+	130	0
-	+	130	0
-	+	203	72
-	+	204	0
-	+	206	5
-	+	208	0
-	+	207	0
-	+	203	68
-	+	202	0
-	+	202	0
-	+	202	0
-
-> ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/donor-default.tpl.php
-	"	178	0
-	^	184	45
-	.	178	0
-	+	182	84
-	+	182	85
-	+	182	87
-	+	182	89
-	+	182	126
-	+	183	108
-	+	182	99
-	+	183	36
-	+	181	0
-	+	182	0
-	+	184	44
-	+	178	0
-
-> ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/monthly-donor-default.tpl.php
-	"	178	0
-	^	178	99
-	.	178	98
-	+	186	0
-	+	186	0
-	+	179	0
-	+	178	98
-
-> ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/page/monthly-donor-default.tpl.php
-	"	47	2
-	.	45	0
-	+	45	0
-
-> ~/Sites/ch/sites/all/modules/sanky_net/sanky_donation_form/confirmations/email/donor/ny-donor-default.tpl.php
-	"	138	26
-	.	134	0
-	+	134	0
-
-> ~/Sites/ch/sites/all/themes/locations/tpl.php/page/page--donate.tpl.php
-	"	206	2
-
-> ~/Sites/ch/sites/all/themes/locations/js/common.js
-	"	54	27
-
-> ~/Sites/ffh.dev/connect.freedomfromhunger.org/.git/MERGE_MSG
-	"	1	0
-
-> ~/Sites/ffh.dev/freedomfromhunger-old.org/.git/MERGE_MSG
-	"	1	0
-
-> ~/Sites/ffh.dev/freedomfromhunger-old.org/sites/all/themes/hunger/templates/page--front.tpl.php
-	"	166	10
-	^	166	0
-	.	166	0
+	.	1	0
 	+	1	0
-	+	144	0
 	+	1	0
-	+	167	0
-	+	168	0
-	+	166	0
+	+	1	0
+	+	1	0
 
-> ~/Sites/ffh.dev/freedomfromhunger-old.org/NERD_tree_1
+> ~/Sites/awf/campaigns/pledge/laravel/.gitattributes
+	"	1	0
+
+> ~/Sites/awf/campaigns/NERD_tree_2
+	"	18	0
+	.	1	0
+	+	1	0
+	+	1	0
+
+> NERD_tree_1
+	"	7	0
+	.	1	0
+	+	1	0
+
+> ~/Sites/_config/httpd.conf
+	"	1	0
+
+> ~/Sites/awf/campaigns/pledge/NERD_tree_2
+	"	11	0
+	.	1	0
+	+	1	0
+
+> ~/Sites/_config/php.ini
+	"	406	0
+	.	406	17
+	+	406	17
+
+> ~/Sites/cmow/.git/MERGE_MSG
+	"	1	0
+
+> ~/Sites/cmow/sites/all/modules/sanky/sanky_donation_form/sanky_donation_form.module
+	"	277	0
+	^	536	23
+	.	278	121
+	+	534	17
+	+	536	15
+	+	534	18
+	+	532	105
+	+	532	0
+	+	532	99
+	+	535	0
+	+	536	22
+	+	532	115
+	+	267	0
+	+	278	0
+	+	278	121
+	+	278	0
+	+	278	0
+	+	278	121
+
+> ~/Sites/cmow/NERD_tree_1
+	"	57	32
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/Sites/awf/.git/COMMIT_EDITMSG
+	"	1	0
+
+> ~/Sites/cmow/sites/all/themes/cmow/page-node-11.tpl.php
+	"	15	2
+	^	15	0
+	.	15	0
+	+	1	0
+	+	11	0
+	+	8	0
+	+	9	65
+	+	10	0
+	+	15	0
+
+> ~/Sites/cmow/sites/all/themes/cmow/node-50.tpl.php
+	"	37	1
+
+> ~/Sites/cmow/sites/all/themes/cmow/page-front.tpl.php
+	"	242	0
+
+> ~/Sites/ch/sites/www.covenanthouse.org/themes/covenant/css/style.scss
+	"	287	0
+	^	287	64
+	.	287	63
+	+	809	52
+	+	810	52
+	+	809	248
+	+	811	243
+	+	813	245
+	+	814	83
+	+	812	81
+	+	810	84
+	+	1710	0
+	+	1711	23
+	+	1710	32
+	+	1710	226
+	+	1712	223
+	+	1714	225
+	+	1715	63
+	+	1713	61
+	+	1711	64
+	+	1996	0
+	+	1997	23
+	+	1996	32
+	+	1997	64
+	+	1996	226
+	+	1998	223
+	+	2000	225
+	+	2001	63
+	+	1999	61
+	+	2252	0
+	+	2253	23
+	+	2252	32
+	+	2252	226
+	+	2254	223
+	+	2256	225
+	+	2257	63
+	+	2255	61
+	+	2253	64
+	+	2445	0
+	+	2446	0
+	+	2447	23
+	+	2446	32
+	+	2447	64
+	+	2446	226
+	+	2448	223
+	+	2450	225
+	+	2451	63
+	+	2449	61
+	+	292	68
+	+	802	31
+	+	287	63
+
+> ~/Sites/ch/NERD_tree_1
 	"	40	0
 	.	1	0
 	+	1	0
@@ -1205,385 +1728,621 @@ $
 	+	1	0
 	+	1	0
 	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
 
-> ~/Sites/ffh.dev/freedomfromhunger-old.org/.htaccess
-	"	102	2
-	.	102	0
-	+	102	0
-
-> ~/Sites/ffh.dev/connect.freedomfromhunger.org/ffh-day/index.html
-	"	1	0
-
-> ~/Sites/ffh.dev/connect.freedomfromhunger.org/NERD_tree_1
-	"	41	9
-	.	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-
-> ~/Sites/ffh.dev/connect.freedomfromhunger.org/ffh-day/json/key.json
+> ~/Sites/ch/sites/www.covenanthouse.org/themes/covenant/css/layout.css
 	"	9	0
 
-> ~/Sites/ffh.dev/connect.freedomfromhunger.org/ffh-day/js/main.js
-	"	144	0
-
-> ~/Sites/ffh.dev/connect.freedomfromhunger.org/quiz/index.html
-	"	313	35
-	^	316	36
-	.	311	0
-	+	38	26
-	+	57	0
-	+	37	23
-	+	57	0
-	+	55	0
-	+	55	36
-	+	55	25
-	+	55	0
-	+	60	0
-	+	324	0
-	+	359	0
-	+	60	0
-	+	324	0
-	+	324	0
-	+	324	0
-	+	324	0
-	+	324	0
-	+	324	0
-	+	320	0
-	+	54	0
-	+	54	0
-	+	320	0
-	+	40	0
-	+	51	0
-	+	44	91
-	+	357	8
-	+	358	61
-	+	357	3
-	+	358	69
-	+	69	0
-	+	68	0
-	+	33	21
-	+	35	0
-	+	328	15
-	+	332	43
-	+	348	0
-	+	335	0
-	+	336	0
-	+	344	0
-	+	348	0
-	+	346	43
-	+	336	0
-	+	335	87
-	+	332	0
-	+	350	0
-	+	332	0
-	+	331	0
-	+	91	0
-	+	83	0
-	+	90	0
-	+	89	31
-	+	123	31
-	+	89	30
-	+	157	24
-	+	192	31
-	+	226	31
-	+	264	31
-	+	308	37
-	+	318	29
-	+	83	56
-	+	85	35
-	+	87	40
-	+	89	0
-	+	83	37
-	+	85	35
-	+	83	38
-	+	86	43
-	+	82	0
-	+	319	0
-	+	309	0
-	+	309	0
-	+	309	0
-	+	319	0
-	+	73	0
-	+	34	0
-	+	65	0
-	+	62	0
-	+	61	31
-	+	62	0
-	+	63	0
-	+	62	0
-	+	326	12
-	+	325	8
-	+	326	31
-	+	325	0
-	+	310	0
-	+	310	54
-	+	317	0
-	+	316	0
-	+	311	0
-
-> ~/Sites/ffh.dev/connect.freedomfromhunger.org/quiz/config.rb
-	"	14	18
-	^	4	18
-	.	4	18
-	+	4	18
-
-> ~/Sites/ffh.dev/connect.freedomfromhunger.org/quiz/css/main.scss
-	"	191	17
-	^	189	18
-	.	189	17
-	+	173	15
-	+	177	2
-	+	174	30
-	+	176	24
-	+	172	14
-	+	177	0
-	+	178	2
-	+	199	2
-	+	178	0
-	+	168	14
-	+	162	6
-	+	165	0
-	+	163	14
-	+	164	19
-	+	515	0
-	+	514	0
-	+	521	15
-	+	526	33
-	+	522	17
-	+	525	4
-	+	523	42
-	+	524	23
-	+	526	10
-	+	527	11
-	+	530	0
-	+	529	18
-	+	544	0
-	+	519	20
-	+	521	13
-	+	529	21
-	+	569	0
-	+	569	0
-	+	564	19
-	+	604	0
-	+	536	0
-	+	537	17
-	+	536	15
-	+	537	19
-	+	536	10
-	+	521	0
-	+	179	2
-	+	180	0
-	+	179	74
-	+	180	79
-	+	342	0
-	+	352	0
-	+	342	8
-	+	351	0
-	+	343	13
-	+	350	4
-	+	345	18
-	+	346	20
-	+	210	16
-	+	347	21
-	+	348	23
-	+	345	17
-	+	350	0
-	+	349	39
-	+	261	0
-	+	261	0
-	+	249	0
-	+	270	20
-	+	244	20
-	+	247	4
-	+	245	17
-	+	243	0
-	+	245	16
-	+	247	0
-	+	264	0
-	+	256	0
-	+	263	0
-	+	496	0
-	+	497	18
-	+	270	0
-	+	250	0
-	+	254	0
-	+	271	0
-	+	264	0
-	+	269	0
-	+	270	0
-	+	246	24
-	+	182	6
-	+	181	0
-	+	182	9
-	+	182	2
-	+	182	17
-	+	182	4
-	+	182	35
-	+	182	20
-	+	182	12
-	+	172	0
-	+	182	14
-	+	185	2
-	+	183	22
-	+	182	0
-	+	187	0
-	+	186	0
-	+	183	0
-	+	184	16
-	+	189	17
-
-> ~/Sites/ffh.dev/connect.freedomfromhunger.org/quiz/css/prettyCheckable.css
-	"	12	0
-
-> ~/Sites/ffh.dev/connect.freedomfromhunger.org/quiz/css/normalize.css
-	"	527	0
-
-> ~/Sites/ffh.dev/connect.freedomfromhunger.org/quiz/css/bootstrap.min.css
-	"	1	0
-
-> ~/Sites/ffh.dev/connect.freedomfromhunger.org/quiz/js/plugins.js
-	"	30	0
-
-> ~/Sites/ffh.dev/connect.freedomfromhunger.org/quiz/js/main.js
-	"	28	15
-	^	44	42
-	.	44	41
-	+	12	0
-	+	12	35
-	+	12	0
-	+	13	0
-	+	51	15
-	+	94	8
-	+	96	12
-	+	13	1
-	+	13	0
-	+	50	63
-	+	50	0
-	+	54	0
-	+	116	0
-	+	115	0
-	+	30	27
-	+	31	8
-	+	34	10
-	+	38	10
-	+	31	58
-	+	31	16
-	+	33	8
-	+	31	0
-	+	31	55
-	+	30	23
-	+	34	23
-	+	38	23
-	+	30	23
-	+	31	0
-	+	30	23
-	+	32	13
-	+	43	27
-	+	45	8
-	+	44	0
-	+	44	41
-
-> ~/Sites/ffh.dev/connect.freedomfromhunger.org/quiz/json/key.json
-	"	3	0
-
-> ~/Sites/_config/httpd-vhosts.conf
-	"	390	2
-	^	80	21
-	.	84	0
-	+	62	0
-	+	60	54
-	+	177	0
-	+	80	0
-	+	80	0
-	+	81	0
-	+	79	0
-	+	80	23
-	+	84	0
-
-> ~/Sites/ch/sites/www.covenanthouse.org/themes/covenant/css/style.scss
-	"	287	0
-	^	2515	19
-	.	2515	19
-	+	114	132
-	+	114	154
-	+	114	105
-	+	120	0
-	+	120	106
-	+	120	106
-	+	120	114
-	+	120	0
-	+	2515	19
-
-> ~/Sites/cmow/.git/MERGE_MSG
-	"	1	0
-
-> ~/Sites/cmow/sites/all/modules/sanky/sanky_donation_form/confirmations/email/donor/donor-default.tpl.php
-	"	126	0
-	.	57	184
-	+	57	184
-
-> ~/Sites/cmow/NERD_tree_1
-	"	61	0
-	.	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-
-> ~/Sites/cmow/sites/all/modules/sanky/sanky_donation_form/confirmations/email/donor/donor-monthly.tpl.php
+> ~/Sites/ch/sites/www.covenanthouse.org/themes/covenant/css/kids_carousel.css
 	"	8	0
 
-> ~/Sites/cmow/sites/all/modules/sanky/sanky_donation_form/confirmations/email/donor/donor-emergency-food-packages.tpl.php
+> ~/Sites/ch/sites/www.covenanthouse.org/themes/covenant/css/_responsive_form.scss
+	"	580	2
+	^	240	38
+	.	240	37
+	+	590	4
+	+	590	0
+	+	590	9
+	+	590	2
+	+	590	0
+	+	590	24
+	+	590	11
+	+	590	13
+	+	590	25
+	+	590	0
+	+	590	13
+	+	590	0
+	+	590	24
+	+	590	22
+	+	590	18
+	+	590	20
+	+	590	17
+	+	590	2
+	+	590	18
+	+	590	0
+	+	590	0
+	+	590	46
+	+	590	48
+	+	590	46
+	+	590	44
+	+	590	46
+	+	2	51
+	+	43	0
+	+	590	14
+	+	590	0
+	+	590	2
+	+	590	0
+	+	590	19
+	+	590	2
+	+	590	13
+	+	590	21
+	+	590	0
+	+	590	2
+	+	590	16
+	+	590	3
+	+	590	0
+	+	590	4
+	+	590	17
+	+	590	4
+	+	590	72
+	+	590	25
+	+	590	20
+	+	590	0
+	+	590	20
+	+	590	33
+	+	590	4
+	+	590	19
+	+	590	16
+	+	590	10
+	+	590	6
+	+	590	22
+	+	590	18
+	+	590	22
+	+	590	21
+	+	590	22
+	+	590	26
+	+	590	31
+	+	590	22
+	+	590	6
+	+	590	19
+	+	590	0
+	+	590	21
+	+	590	16
+	+	590	70
+	+	590	15
+	+	590	0
+	+	590	0
+	+	590	26
+	+	590	14
+	+	590	23
+	+	590	0
+	+	590	28
+	+	590	0
+	+	590	17
+	+	590	18
+	+	590	17
+	+	590	0
+	+	590	16
+	+	590	0
+	+	590	23
+	+	590	0
+	+	590	0
+	+	590	0
+	+	590	0
+	+	590	0
+	+	590	18
+	+	590	20
+	+	590	26
+	+	590	24
+	+	590	0
+	+	590	0
+	+	239	32
+	+	242	0
+	+	241	36
+	+	240	37
+
+> ~/Sites/ch/sites/www.covenanthouse.org/themes/covenant/css/casa/_casa_responsive.scss
+	"	2	0
+
+> ~/Sites/ch/.git/MERGE_MSG
+	"	2	0
+
+> ~/Sites/ccbq/.git/MERGE_MSG
 	"	1	0
 
-> ~/Sites/cmow/sites/all/modules/sanky/sanky_donation_form/confirmations/email/donor/donor-foodtruck-monthly.tpl.php
+> ~/Sites/ccbq/sites/default/settings.php
+	"	112	0
+	^	99	0
+	.	98	0
+	+	93	0
+	+	92	0
+	+	99	0
+	+	92	0
+	+	100	0
+	+	98	0
+
+> ~/Sites/ccbq/NERD_tree_1
+	"	33	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/Sites/cmow/sites/default/settings.php
+	"	102	1
+
+> ~/Sites/ccbq/sites/all/modules/sanky_net/sanky_shared/sanky_shared.module
+	"	391	0
+	^	97	10
+	.	97	9
+	+	95	7
+	+	97	9
+
+> ~/Sites/ccbq/sites/all/modules/sanky_net/donation_form/confirmations/page/donor-default.tpl.php
+	"	55	0
+	^	59	44
+	.	5	0
+	+	55	43
+	+	59	43
+	+	5	0
+
+> ~/Sites/ccbq/sites/all/modules/sanky_net/donation_form/confirmations/email/donor/donor-default.tpl.php
+	"	62	34
+	.	5	0
+	+	55	42
+	+	59	42
+	+	5	0
+
+> ~/Sites/ccbq/sites/all/modules/sanky_net/donation_form/confirmations/email/admin/admin-default.tpl.php
+	"	189	0
+
+> ~/Sites/awf/campaigns/safari-sweepstakes/laravel/app/database/production.sqlite
 	"	1	0
+
+> ~/Sites/awf/campaigns/pledge/ControlP
+	"	10	0
 	.	2	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
 	+	2	0
 
-> ~/Sites/cmow/sites/all/modules/sanky/sanky_donation_form/confirmations/email/donor/donor-foodtruck.tpl.php
+> ~/.dotfiles/vim/vim.symlink/snippets/_.snippets
+	"	370	7
+	^	370	8
+	.	370	7
+	+	20	49
+	+	27	23
+	+	182	0
+	+	182	0
+	+	182	0
+	+	182	0
+	+	140	0
+	+	140	0
+	+	182	0
+	+	370	2
+	+	371	1
+	+	370	3
+	+	371	0
+	+	370	7
+
+> ~/Sites/ch/sites/all/themes/locations/js/common.js
+	"	11	0
+	.	9	0
+	+	8	56
+	+	8	52
+	+	8	11
+	+	8	58
+	+	8	21
+	+	8	17
+	+	8	44
+	+	8	18
+	+	8	90
+	+	8	76
+	+	8	90
+	+	8	73
+	+	8	0
+	+	8	76
+	+	8	47
+	+	8	52
+	+	8	28
+	+	8	52
+	+	8	71
+	+	8	29
+	+	8	70
+	+	8	28
+	+	8	33
+	+	8	52
+	+	8	33
+	+	8	22
+	+	8	58
+	+	8	16
+	+	9	0
+
+> ~/Sites/ch/sites/all/themes/locations/sass/screen.scss
+	"	376	8
+	^	377	0
+	.	361	0
+	+	361	10
+	+	378	0
+	+	378	0
+	+	377	0
+	+	361	0
+
+> ~/Sites/cmow/sites/all/modules/sanky/sanky_node_events/sanky_node_events.module
+	"	1821	220
+	^	1821	262
+	.	1821	0
+	+	1821	186
+	+	1821	309
+	+	1821	0
+	+	1821	222
+	+	1677	0
+	+	1677	0
+	+	1677	0
+	+	1677	63
+	+	1676	84
+	+	1676	90
+	+	1676	114
+	+	1676	0
+	+	1676	94
+	+	1676	110
+	+	1676	111
+	+	1737	24
+	+	1737	0
+	+	1677	0
+	+	1677	0
+	+	1677	0
+	+	1677	24
+	+	1676	0
+	+	1677	0
+	+	1677	102
+	+	1677	0
+	+	1676	102
+	+	1677	0
+	+	1737	0
+	+	1736	0
+	+	1737	0
+	+	1738	0
+	+	1677	0
+	+	1677	0
+	+	1670	0
+	+	1669	0
+	+	1673	0
+	+	1674	0
+	+	1677	0
+	+	1676	43
+	+	1737	0
+	+	1730	0
+	+	1729	0
+	+	1737	0
+	+	1736	44
+	+	1821	0
+
+> ~/.ssh/id_rsa.pub
 	"	1	0
 
-> ~/Sites/cmow/sites/all/modules/sanky/sanky_donation_form/confirmations/email/donor/donor-mos-appeal.tpl.php
+> ~/.ssh/NERD_tree_1
+	"	11	0
+	.	1	0
+	+	1	0
+
+> ~/Sites/cmow/.htaccess
+	"	364	71
+	^	365	72
+	.	365	71
+	+	364	121
+	+	365	15
+	+	366	15
+	+	365	71
+
+> ~/Sites/cmow/sites/all/modules/sanky/sanky_donation_form/confirmations/page/donor-default.tpl.php
+	"	51	0
+	.	52	0
+	+	52	0
+	+	52	0
+	+	52	0
+	+	52	80
+	+	52	5
+	+	52	18
+	+	52	2
+	+	52	28
+	+	52	0
+	+	52	3
+	+	52	0
+	+	52	0
+	+	52	0
+	+	52	0
+	+	52	0
+	+	52	83
+	+	52	85
+	+	52	86
+	+	52	87
+	+	52	0
+	+	52	0
+	+	52	0
+	+	52	0
+	+	52	0
+	+	52	16
+	+	52	0
+	+	52	0
+	+	52	0
+	+	52	28
+	+	52	0
+	+	52	0
+	+	52	0
+	+	52	1
+	+	52	0
+	+	52	0
+	+	52	86
+	+	52	24
+	+	52	109
+	+	52	0
+	+	52	103
+	+	52	110
+	+	52	111
+	+	52	112
+	+	52	113
+	+	52	8
+	+	52	0
+
+> ~/Sites/cmow/sites/all/README.txt
 	"	1	0
 
-> ~/Sites/cmow/sites/all/modules/sanky/sanky_donation_form/confirmations/email/donor/mobile-pantry.tpl.php
-	"	63	26
+> ~/Sites/cmow/sites/all/themes/cmow/page-support-us.tpl.php
+	"	12	39
+	^	12	40
+	.	12	39
+	+	8	0
+	+	13	0
+	+	12	80
+	+	17	14
+	+	12	39
 
-> ~/Sites/analytics/.git/MERGE_MSG
+> ~/Sites/cmow/sites/all/modules/sanky/sanky_donation_form/sanky_donation_form.js
+	"	17	7
+	^	14	12
+	.	14	11
+	+	12	34
+	+	11	0
+	+	12	0
+	+	13	0
+	+	13	0
+	+	16	0
+	+	16	8
+	+	16	56
+	+	16	61
+	+	16	59
+	+	16	0
+	+	10	0
+	+	8	0
+	+	13	46
+	+	15	24
+	+	15	0
+	+	13	9
+	+	16	93
+	+	16	94
+	+	16	0
+	+	16	109
+	+	16	110
+	+	16	122
+	+	16	124
+	+	16	0
+	+	16	0
+	+	15	83
+	+	16	0
+	+	15	0
+	+	15	0
+	+	13	0
+	+	16	0
+	+	13	9
+	+	13	0
+	+	13	8
+	+	15	0
+	+	13	0
+	+	14	11
+
+> ~/Sites/cmow/sites/all/modules/sanky/sanky_donation_form/sanky_donation_form.inc
+	"	28	4
+	.	17	0
+	+	17	0
+	+	17	0
+	n	21	2
+
+> ~/Sites/cmow/sites/all/themes/cmow/template.php
+	"	4	3
+
+> ~/Sites/cmow/sites/all/themes/cmow/page.tpl.php
+	"	87	23
+
+> ~/Sites/cmow/sites/all/modules/sanky/sanky_shared/sanky_shared.module
+	"	57	44
+	^	57	51
+	.	57	0
+	+	30	1
+	+	29	0
+	+	30	0
+	+	57	0
+
+> ~/Sites/cmow/sites/all/modules/sanky/sanky_payments/sanky_payments.module
+	"	33	0
+
+> ~/Sites/cmow/sites/all/modules/sanky/sanky_donation_form/confirmations/page/_common.tpl.php
 	"	1	0
 
-> ~/Sites/ffh.dev/freedomfromhunger.org/sites/all/modules/sanky_net/sanky_shared/sanky_shared_form_helpers.inc
-	"	415	5
+> ~/Sites/cmow/sites/all/modules/sanky/sanky_donation_form/confirmations/page/donor-foodtruck.tpl.php
+	"	50	0
 
-> ~/Sites/ffh.dev/freedomfromhunger.org/NERD_tree_1
-	"	65	0
+> ~/Sites/cmow/sites/all/modules/sanky/sanky_donation_form/confirmations/page/donor-mos-appeal.tpl.php
+	"	30	0
+
+> ~/Sites/awf/campaigns/pledge/laravel/app/views/pledge.php
+	"	15	2
+	^	15	41
+	.	16	0
+	+	1	9
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	58
+	+	1	0
+	+	1	50
+	+	1	14
+	+	1	0
+	+	42	0
+	+	1	0
+	+	2	0
+	+	7	0
+	+	19	0
+	+	15	40
+	+	16	0
+
+> ~/.dotfiles/.gitignore
+	"	1	0
+
+> ~/.dotfiles/zsh/aliases.zsh
+	"	8	0
+
+> ~/Sites/awf/campaigns/pledge/pledge_f/config.rb
+	"	1	0
+
+> ~/Sites/awf/campaigns/pledge/pledge_f/NERD_tree_1
+	"	12	19
 	.	1	0
 	+	1	0
 	+	1	0
@@ -1599,42 +2358,57 @@ $
 	+	1	0
 	+	1	0
 	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
 
-> ~/Sites/ffh.dev/freedomfromhunger-old.org/sites/all/modules/donation/donation.module
-	"	39	1
-	.	39	0
-	+	3462	0
-	+	3461	0
-	+	3455	0
-	+	3452	0
-	+	37	48
-	+	39	0
-	+	39	0
-	+	34	0
-	+	35	43
-	+	39	0
-	+	39	0
-	+	39	46
-	+	38	51
-	+	39	0
-	+	39	0
-	a	40	0
+> ~/Sites/awf/campaigns/pledge/pledge_f/scss/app.scss
+	"	1	0
 
-> ~/Sites/ffh.dev/freedomfromhunger-old.org/NERD_tree_2
+> ~/Sites/awf/campaigns/pledge/pledge_f/bower_components/fastclick/lib/fastclick.js
+	"	67	0
+
+> ~/Sites/awf/campaigns/pledge/pledge_f/index.html
+	"	1	0
+
+> ~/Sites/awf/campaigns/pledge/sass/screen.scss
 	"	6	0
-	.	1	0
-	+	1	0
+	.	6	0
+	+	8	0
+	+	6	12
+	+	7	13
+	+	6	0
 
-> ~/Sites/ffh.dev/freedomfromhunger-old.org/includes/locale.inc
-	"	2336	0
+> ~/Sites/awf/campaigns/pledge/sass/_open.scss
+	"	28	1
+	.	1	1
+	+	1	1
 
-> ~/Sites/ffh.dev/freedomfromhunger-old.org/NERD_tree_3
-	"	6	0
-	.	1	0
-	+	1	0
-
-> ~/Sites/ffh.dev/freedomfromhunger-old.org/sites/all/modules/donation/donationonline.tpl.php
-	"	295	156
-
-> ~/Sites/ffh.dev/freedomfromhunger-old.org/sites/all/modules/donation/donation.info
+> ~/Sites/awf/campaigns/pledge/sass/_close.scss
 	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/Sites/awf/campaigns/pledge/sass/normalize.scss
+	"	5	0

@@ -17,14 +17,14 @@ snippet pc
 	 **/
 	${2}
 snippet sc
-	# @author		Matt Ryan, SankyNet <mryan@sanknet.com>
+	# @author		Piotr Major, SankyNet <pmajor@sankyinc.com>
 	# @date			`strftime("%Y-%m-%d")`
 	# @comments	${1}
 
 	${2}
 snippet hc
 	<!--
-	- @author		matt ryan
+	- @author		piotr major
 	- @date			`strftime("%Y-%m-%d")`
 	- @comments  ${1}
 	-->
@@ -137,67 +137,46 @@ snippet fun
 		${2}
 	}
 snippet boilerplate
-	<!doctype html>
-	<!--[if lt IE 7 ]> <html class="ie6" lang="en"> <![endif]-->
-	<!--[if IE 7 ]>    <html class="ie7" lang="en"> <![endif]-->
-	<!--[if IE 8 ]>    <html class="ie8" lang="en"> <![endif]-->
-	<!--[if (gte IE 9)|!(IE)]><!--> <html lang="en"> <!--<![endif]-->
+	<!DOCTYPE html>
+	<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+	<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+	<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+	<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title></title>
-		<meta name="description" content="">
-		<meta name="author" content="">
+	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="shortcut icon" href="/favicon.ico">
-		<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-
-		<link rel="stylesheet" href="css/style.css?v=2">
-		<script src="js/libs/modernizr-1.7.min.js"></script>
-
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/main.css">
+	<script src="js/vendor/modernizr-2.6.2.min.js"></script>
 	</head>
-
 	<body>
+	<!--[if lt IE 7]>
+		<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+	<![endif]-->
 
-		<div id="container">
-			<header>
+	<!-- Add your site or application content here -->
+	<p>Hello world! This is HTML5 Boilerplate.</p>
 
-			</header>
-			<div id="main" role="main">
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+	<script src="js/plugins.js"></script>
+	<script src="js/main.js"></script>
 
-			</div>
-			<footer>
-
-			</footer>
-		</div> <!-- eo #container -->
-
-
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>
-		<script>window.jQuery || document.write("<script src='js/libs/jquery-1.5.1.min.js'>\x3C/script>")</script>
-
-
-		<!-- scripts concatenated and minified via ant build script-->
-		<script src="js/plugins.js"></script>
-		<script src="js/script.js"></script>
-		<!-- end scripts-->
-
-
-		<!--[if lt IE 7 ]>
-			<script src="js/libs/dd_belatedpng.js"></script>
-			<script>DD_belatedPNG.fix("img, .png_bg");</script>
-		<![endif]-->
-
-
-
-		<script>
-			var _gaq=[["_setAccount","UA-XXXXX-X"],["_trackPageview"]]; // Change UA-XXXXX-X to be your site's ID
-			(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
-			g.src=("https:"==location.protocol?"//ssl":"//www")+".google-analytics.com/ga.js";
-			s.parentNode.insertBefore(g,s)}(document,"script"));
-		</script>
-
+	<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+	<script>
+		(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+		function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+		e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+		e.src='//www.google-analytics.com/analytics.js';
+		r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+		ga('create','UA-XXXXX-X');ga('send','pageview');
+	</script>
 	</body>
 	</html>
 snippet divc
@@ -387,3 +366,5 @@ snippet dsm
 	drupal_set_message('<pre>'.print_r(${1:variable}, true).'</pre>');
 snippet rd
 	Rails.logger.debug "${1:description}: #{${2:variable}}"
+snippet dd
+	{{ ${1} }}
