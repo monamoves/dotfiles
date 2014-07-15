@@ -139,7 +139,8 @@ vnoremap <Space> za
 
 " VIM appearance {{{
 set background=dark
-colorscheme base16-default
+"colorscheme base16-default
+colorscheme Tomorrow-Night-Major
 syntax on
 filetype plugin indent on
 if has("gui_running")
