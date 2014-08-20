@@ -3,6 +3,7 @@ alias ll='ls -la'
 alias d2u='find . -exec dos2unix {} \;'
 alias pwd='pwd && pwd | pbcopy'
 alias mamp="sudo vim ~/Sites/_config"
+alias tunel="vim ~/.ssh"
 alias mysql='mysql -u root -proot'
 alias mysqldump='mysqldump5 -u root -proot'
 alias h5bp='git clone git://github.com/h5bp/html5-boilerplate.git h5bp && cd h5bp'
