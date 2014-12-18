@@ -49,7 +49,6 @@ Bundle 'kien/ctrlp.vim'
 Bundle 'mileszs/ack.vim'
 Bundle 'ervandew/supertab'
 Bundle 'mrevd/vim-insert-image'
-Bundle 'henrik/vim-open-url'
 Bundle 'matthias-guenther/hammer.vim'
 Bundle 'terryma/vim-multiple-cursors'
 Bundle 'rizzatti/dash.vim'
@@ -57,6 +56,7 @@ if executable('ctags')
   Bundle 'majutsushi/tagbar'
 endif
 Bundle 'chriskempson/base16-vim'
+Plugin 'kchmck/vim-coffee-script'
 "}}}
 
 " VIM behaviour {{{
@@ -118,7 +118,7 @@ vnoremap j gj
 vnoremap k gk
 
 " Return turns off search highlining, but not in quickfix
-nmap  :nohlsearch<CR>
+nnoremap <silent> <C-l> :nohl<CR><C-l>
 autocmd BufReadPost quickfix nmap <buffer> ^M <CR>
 
 " Restore cursor position upon reopening files
@@ -139,8 +139,8 @@ vnoremap <Space> za
 
 " VIM appearance {{{
 set background=dark
-"colorscheme base16-default
-colorscheme Tomorrow-Night-Major
+" colorscheme base16-default
+colorscheme Tomorrow-Night
 syntax on
 filetype plugin indent on
 if has("gui_running")
