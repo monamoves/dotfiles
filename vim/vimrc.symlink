@@ -57,6 +57,7 @@ if executable('ctags')
 endif
 Bundle 'chriskempson/base16-vim'
 Plugin 'kchmck/vim-coffee-script'
+Bundle 'groenewege/vim-less'
 "}}}
 
 " VIM behaviour {{{
