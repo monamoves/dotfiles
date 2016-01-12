@@ -71,3 +71,6 @@ defaults write com.apple.dock mouse-over-hilte-stack -bool true
 
 # Copy email addresses as `foo@example.com` instead of `Foo Bar <foo@example.com>` in Mail.app
 defaults write com.apple.mail AddressesIncludeNameOnPasteboard -bool false
+
+# Show full path in the title
+defaults write com.apple.finder _FXShowPosixPathInTitle -bool YES

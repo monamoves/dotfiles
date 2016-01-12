@@ -143,6 +143,7 @@ set background=dark
 " colorscheme base16-default
 colorscheme Tomorrow-Night
 syntax on
+syntax enable
 filetype plugin indent on
 if has("gui_running")
   set guioptions=egmrt
