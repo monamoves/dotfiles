@@ -5,12 +5,14 @@ if [ -f "$DR/drush.bashrc" ] ; then
 fi
 
 # Include Drush completion.
-if [ -f "$DR/drush.complete.sh" ] ; then
-  source $DR/drush.complete.sh
-fi
+# Not loaded here since main zsh.symlink will bring that in.
+# if [ -f "$DR/drush.complete.sh" ] ; then
+#   source $DR/drush.complete.sh
+# fi
 
 # Include Drush prompt customizations.
-if [ -f "$DR/drush.prompt.sh" ] ; then
-  source $DR/drush.prompt.sh
-fi
+# Do not load this file. It throws errors under zsh
+# if [ -f "$DR/drush.prompt.sh" ] ; then
+#   source $DR/drush.prompt.sh
+# fi
 
