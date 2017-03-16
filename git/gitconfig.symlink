@@ -1,6 +1,6 @@
 [user]
-	name  = Peter Major
-	email = pmajor@sankynet.com
+	name  = Mona Le Roy
+	email = mleroy@sankynet.com
 [credential]
 	helper = osxkeychain
 [color]
@@ -29,10 +29,10 @@
 [apply]
   whitespace = fix
 [core]
-  editor     = vim
+  editor     = subl -w
   whitespace = space-before-tab,tab-in-indent,trailing-space
 	excludesfile = ~/.dotfiles/git/.gitignore_global
 [github]
-	user = mejdzer
+	user = monamoves
 [help]
 	autocorrect = 1
